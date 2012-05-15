@@ -13,7 +13,7 @@
 
             <!-- Genre Term = Rotunda -->
 
-            <xsl:if test="contains(./text(),Rotunda)">
+            <xsl:if test="contains(./text(),'Rotunda')">
                 <xsl:element name="subject" inherit-namespaces="no"
                     xmlns="http://www.loc.gov/mods/v3">
                     <xsl:attribute name="authority">lcsh</xsl:attribute>
