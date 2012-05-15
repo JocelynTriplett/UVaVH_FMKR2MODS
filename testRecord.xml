@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FMPXMLRESULT xmlns="http://www.filemaker.com/fmpxmlresult">
+    <ERRORCODE>0</ERRORCODE>
+    <PRODUCT BUILD="11/22/2002" NAME="FileMaker Pro" VERSION="6.0v4"/>
+    <DATABASE DATEFORMAT="M/d/yyyy" LAYOUT="main" NAME="" RECORDS="16161" TIMEFORMAT="h:mm:ss a"/>
+    <METADATA>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Acc Num" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="admin info" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Comments" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Copy Negative" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="creation date" TYPE="DATE"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Date" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Format" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Genre" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="id" TYPE="NUMBER"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Image Filename" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="issue" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Keyword" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Mod date" TYPE="DATE"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Mod time" TYPE="TIME"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Negyesno" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Photographer" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="publication" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="restrictions" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Source" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="time " TYPE="TIME"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Title" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="volume" TYPE="TEXT"/>
+    </METADATA>
+    <RESULTSET FOUND="16161">
+        <ROW MODID="26" RECORDID="10">
+            <COL>
+                <DATA>MSS 5566</DATA>
+            </COL>
+            <COL>
+                <DATA>This is the admin info!</DATA>
+            </COL>
+            <COL>
+                <DATA>11 copies of print in folder</DATA>
+            </COL>
+            <COL>
+                <DATA>Neg 4x5 1681, Neg 8x10 7</DATA>
+            </COL>
+            <COL>
+                <DATA>this is the creation date!</DATA>
+            </COL>
+            <COL>
+                <DATA>This is the date!</DATA>
+            </COL>
+            <COL>
+                <DATA>engraving</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>1</DATA>
+            </COL>
+            <COL>
+                <DATA>prints00001</DATA>
+            </COL>
+            <COL>
+                <DATA>Issue!</DATA>
+            </COL>
+            <COL>
+                <DATA>Rotunda and Lawn, B. Tanner engraving from Boye&apos;s Map of Virginia 11 copies of print
+                    in folder engraving </DATA>
+            </COL>
+            <COL>
+                <DATA>modification date! 1980 [?]</DATA>
+            </COL>
+            <COL>
+                <DATA>2:40:26 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Yes</DATA>
+            </COL>
+            <COL>
+                <DATA>photographer!</DATA>
+            </COL>
+            <COL>
+                <DATA>publication!</DATA>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>Time!</DATA>
+            </COL>
+            <COL>
+                <DATA>Rotunda and Lawn, B. Tanner engraving from Boye&apos;s Map of Virginia</DATA>
+            </COL>
+            <COL>
+                <DATA>This is the volume!</DATA>
+            </COL>
+        </ROW>
+    </RESULTSET>
+</FMPXMLRESULT>
+
