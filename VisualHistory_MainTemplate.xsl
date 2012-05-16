@@ -43,6 +43,7 @@
         <xsl:call-template name="accessCondition"/>
         <xsl:call-template name="abstract"/>
         <xsl:call-template name="physicalDescription"/>
+        <xsl:call-template name="note"/>
         <xsl:call-template name="subject"/>
         <xsl:call-template name="relatedItem"/>
         <xsl:call-template name="publication"/>
@@ -121,6 +122,13 @@
     <xsl:template name="abstract">
         <xsl:element name="abstract" inherit-namespaces="no" xmlns="http://www.loc.gov/mods/v3">
             <xsl:value-of select="COL[3]/DATA[1]"/>
+        </xsl:element>
+    </xsl:template>
+    
+    <xsl:template name="note">
+        <xsl:element name="note" inherit-namespaces="no" xmlns="http://www.loc.gov/mods/v3">
+            <xsl:attribute name="type">admin</xsl:attribute>
+            <xsl:value-of select="COL[2]/DATA[1]"/>
         </xsl:element>
     </xsl:template>
 
