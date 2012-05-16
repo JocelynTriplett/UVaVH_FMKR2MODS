@@ -184,8 +184,11 @@
                         <xsl:attribute name="type">corporate</xsl:attribute>
                         <xsl:attribute name="authority">naf</xsl:attribute>
                         <xsl:element name="namePart">
-                            <xsl:text>Claude Moore Health Sciences Library</xsl:text>
+                            <xsl:text>University of Virginia</xsl:text>
                         </xsl:element>
+                    </xsl:element>
+                    <xsl:element name="topic">
+                        <xsl:text>Health System</xsl:text>
                     </xsl:element>
                 </xsl:element>
             </xsl:if>
