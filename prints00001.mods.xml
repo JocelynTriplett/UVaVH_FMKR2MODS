@@ -37,13 +37,7 @@
       <name type="corporate" authority="naf">
          <namePart>University of Virginia</namePart>
       </name>
-      <topic>Faculty</topic>
-   </subject>
-   <subject authority="lcsh">
-      <name type="corporate" authority="naf">
-         <namePart>University of Virginia</namePart>
-      </name>
-      <topic>Students</topic>
+      <topic>Health System</topic>
    </subject>
    <relatedItem type="series" displayLabel="Part of">
       <titleInfo>
@@ -70,6 +64,6 @@
       <languageOfCataloging>
          <languageTerm type="code" authority="rfc3066">en</languageTerm>
       </languageOfCataloging>
-      <recordCreationDate encoding="w3cdtf">2012-05-15T20:55:14.934Z</recordCreationDate>
+      <recordCreationDate encoding="w3cdtf">2012-05-16T15:33:51.346Z</recordCreationDate>
    </recordInfo>
 </mods>
