@@ -6,6 +6,11 @@
     <xsl:output method="text"/>
     <xsl:output method="xml" indent="yes" name="xml"/>
 
+    <!-- set as Excel XML file -->
+    <xsl:param name="AuthorizedNames">
+        <xsl:value-of select="false()"/>
+    </xsl:param>
+    
     <xsl:include href="VisualHistory_name.xsl"/>
     <!-- creates "name" and all subelements -->
     <xsl:include href="VisualHistory_originInfo.xsl"/>
