@@ -43,31 +43,25 @@
         <xsl:variable name="printsNumber">
             <xsl:value-of select="COL[10]/DATA[1]"/>
         </xsl:variable>
-
         <xsl:element name="name" inherit-namespaces="no" xmlns="http://www.loc.gov/mods/v3">
             <xsl:attribute name="type">personal</xsl:attribute>
             <xsl:element name="namePart" inherit-namespaces="no" xmlns="http://www.loc.gov/mods/v3">
                 <xsl:choose>
                     <xsl:when
                         test="document($AuthorizedNames)/ss:Workbook/ss:Worksheet/ss:Table/ss:Row/ss:Cell[1]/ss:Data/text(),$printsNumber">
-                        <xsl:variable name="dammit">
+                        <xsl:variable name="authority">
                             <xsl:value-of select="document($AuthorizedNames)/ss:Workbook/ss:Worksheet/ss:Table/ss:Row[ss:Cell[1]/ss:Data/text()=$printsNumber]/ss:Cell[4]/ss:Data/text()"/>
                         </xsl:variable>
                         <xsl:attribute name="authority">
-                            <xsl:value-of select="$dammit"/>
+                            <xsl:value-of select="$authority"/>
                         </xsl:attribute>
-                        <xsl:value-of select="$name"/>
+                        <xsl:value-of select="document($AuthorizedNames)/ss:Workbook/ss:Worksheet/ss:Table/ss:Row[ss:Cell[1]/ss:Data/text()=$printsNumber]/ss:Cell[3]/ss:Data/text()"/>
                     </xsl:when>
                     <xsl:otherwise>
                         <xsl:value-of select="$name"/>
                     </xsl:otherwise>
                 </xsl:choose>
-
             </xsl:element>
-
-
         </xsl:element>
-
     </xsl:template>
-
 </xsl:stylesheet>
