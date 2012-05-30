@@ -24,6 +24,7 @@
                                     <xsl:attribute name="encoding">w3cdtf</xsl:attribute>
                                     <xsl:attribute name="point">start</xsl:attribute>
                                     <xsl:attribute name="qualifier">inferred</xsl:attribute>
+                                    <xsl:attribute name="keyDate">yes</xsl:attribute>
                                     <xsl:value-of
                                         select="normalize-space(substring-before(./text(),'-'))"/>
                                 </xsl:element>
@@ -46,6 +47,7 @@
                                             <xsl:attribute name="encoding">w3cdtf</xsl:attribute>
                                             <xsl:attribute name="point">start</xsl:attribute>
                                             <xsl:attribute name="qualifier">inferred</xsl:attribute>
+                                            <xsl:attribute name="keyDate">yes</xsl:attribute>
                                             <xsl:value-of
                                                 select="normalize-space(substring-after(substring-before(./text(),'-'),'ca.'))"/>
                                         </xsl:element>
@@ -63,6 +65,7 @@
                                     <xsl:attribute name="encoding">w3cdtf</xsl:attribute>
                                     <xsl:attribute name="point">start</xsl:attribute>
                                     <xsl:attribute name="qualifier">inferred</xsl:attribute>
+                                    <xsl:attribute name="keyDate">yes</xsl:attribute>
                                     <xsl:value-of
                                         select="normalize-space(substring-before(./text(),'-'))"/>
                                 </xsl:element>
@@ -83,6 +86,7 @@
                                     <xsl:attribute name="encoding">w3cdtf</xsl:attribute>
                                     <xsl:attribute name="point">start</xsl:attribute>
                                     <xsl:attribute name="qualifier">inferred</xsl:attribute>
+                                    <xsl:attribute name="keyDate">yes</xsl:attribute>
                                     <xsl:value-of
                                         select="normalize-space(substring-after(substring-before(./text(),'['),'ca.'))"/>
                                 </xsl:element>
@@ -110,6 +114,7 @@
                                     <xsl:attribute name="encoding">w3cdtf</xsl:attribute>
                                     <xsl:attribute name="point">start</xsl:attribute>
                                     <xsl:attribute name="qualifier">approximate</xsl:attribute>
+                                    <xsl:attribute name="keyDate">yes</xsl:attribute>
                                     <xsl:value-of
                                         select="normalize-space(substring-before(substring-after(./text(),'ca.'), '-'))"
                                     />
@@ -129,6 +134,7 @@
                                     <xsl:attribute name="encoding">w3cdtf</xsl:attribute>
                                     <xsl:attribute name="point">start</xsl:attribute>
                                     <xsl:attribute name="qualifier">approximate</xsl:attribute>
+                                    <xsl:attribute name="keyDate">yes</xsl:attribute>
                                     <xsl:value-of
                                         select="normalize-space(substring-before(substring-after(./text(),'ca.'), ' - '))"
                                     />
@@ -147,6 +153,7 @@
                                     <xsl:attribute name="encoding">w3cdtf</xsl:attribute>
                                     <xsl:attribute name="point">start</xsl:attribute>
                                     <xsl:attribute name="qualifier">approximate</xsl:attribute>
+                                    <xsl:attribute name="keyDate">yes</xsl:attribute>
                                     <xsl:value-of
                                         select="normalize-space(substring-before(substring-after(./text(),'ca.'), '-'))"
                                     />
@@ -166,6 +173,7 @@
                                     <xsl:attribute name="encoding">w3cdtf</xsl:attribute>
                                     <xsl:attribute name="point">start</xsl:attribute>
                                     <xsl:attribute name="qualifier">approximate</xsl:attribute>
+                                    <xsl:attribute name="keyDate">yes</xsl:attribute>
                                     <xsl:value-of
                                         select="normalize-space(substring-before(substring-after(./text(),'ca.'), '-'))"
                                     />
@@ -198,6 +206,7 @@
                         <xsl:element name="dateCreated" inherit-namespaces="no">
                             <xsl:attribute name="encoding">w3cdtf</xsl:attribute>
                             <xsl:attribute name="point">start</xsl:attribute>
+                            <xsl:attribute name="keyDate">yes</xsl:attribute>
                             <xsl:value-of
                                 select="normalize-space(substring-before(./text(),' - '))"/>
                         </xsl:element>
@@ -214,6 +223,7 @@
                         <xsl:element name="dateCreated" inherit-namespaces="no">
                             <xsl:attribute name="encoding">w3cdtf</xsl:attribute>
                             <xsl:attribute name="point">start</xsl:attribute>
+                            <xsl:attribute name="keyDate">yes</xsl:attribute>
                             <xsl:value-of
                                 select="normalize-space(substring-before(./text(),'-'))"/>
                         </xsl:element>
