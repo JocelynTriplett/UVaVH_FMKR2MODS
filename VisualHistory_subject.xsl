@@ -6,11 +6,40 @@
     <xsl:output method="text"/>
     <xsl:output method="xml" indent="yes" name="xml"/>
 
-    <!-- Creates Subjects from Genre Terms -->
+
+
+
+
 
     <xsl:template name="subject">
+        <!-- Geographical Term added to all records -->
+        <xsl:element name="subject" inherit-namespaces="no"
+            xmlns="http://www.loc.gov/mods/v3">
+            <xsl:attribute name="authority">tgn</xsl:attribute>
+            <xsl:element name="hierarchicalGeographic">
+                <xsl:element name="country">United States</xsl:element>
+                <xsl:element name="state">Virginia</xsl:element>
+                <xsl:element name="city">Charlottesville</xsl:element>
+            </xsl:element>
+        </xsl:element>
+        
+        <!-- UVa added to all records -->
+        <xsl:element name="subject" inherit-namespaces="no"
+            xmlns="http://www.loc.gov/mods/v3">
+            <xsl:attribute name="authority">lcsh</xsl:attribute>
+            <xsl:element name="name">
+                <xsl:attribute name="type">corporate</xsl:attribute>
+                <xsl:attribute name="authority">naf</xsl:attribute>
+                <xsl:element name="namePart">
+                    <xsl:text>University of Virginia</xsl:text>
+                </xsl:element>
+            </xsl:element>
+        </xsl:element>
+        
+        
         <xsl:for-each select="COL[8]/DATA[1]">
-
+            <!-- Creates Subjects from Genre Terms -->
+            
             <!-- Genre Term = Rotunda -->
 
             <xsl:if test="contains(./text(),'Rotunda')">
