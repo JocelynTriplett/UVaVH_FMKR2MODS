@@ -60,7 +60,8 @@
 
     <xsl:template name="printsNumber">
         <xsl:element name="identifier" inherit-namespaces="no" xmlns="http://www.loc.gov/mods/v3">
-            <xsl:attribute name="type">filename</xsl:attribute>
+            <xsl:attribute name="type">legacy</xsl:attribute>
+            <xsl:attribute name="displayLabel">Prints Number</xsl:attribute>
             <xsl:value-of select="COL[10]/DATA[1]"/>
         </xsl:element>
     </xsl:template>
