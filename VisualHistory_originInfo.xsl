@@ -11,6 +11,12 @@
             <xsl:value-of>&apos;</xsl:value-of>
         </xsl:variable>
         <xsl:element name="originInfo" inherit-namespaces="no" xmlns="http://www.loc.gov/mods/v3">
+            <xsl:element name="place">
+                <xsl:element name="placeTerm">
+                    <xsl:value-of>Charlottesville (Va.)</xsl:value-of>
+                </xsl:element>
+            </xsl:element>
+            
             <xsl:for-each select="COL[6]/DATA[1]">
                 <xsl:choose>
 
