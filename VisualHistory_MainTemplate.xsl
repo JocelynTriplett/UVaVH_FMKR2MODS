@@ -36,6 +36,7 @@
         <xsl:call-template name="titleInfo"/>
         <xsl:call-template name="name"/>
         <xsl:call-template name="typeOfResource"/>
+        <xsl:call-template name="genre"/>
         <xsl:call-template name="printsNumber"/>
         <xsl:call-template name="accessionNumber"/>
         <xsl:call-template name="originInfo"/>
