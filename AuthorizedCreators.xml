@@ -57,13 +57,13 @@
     <Cell ss:StyleID="s63"><Data ss:Type="String">prints00001</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">&quot;Brown's Famous Pictures&quot;</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">G.P. Brown &amp; Co.</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">LC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">naf</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">prints00002</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">[?] &amp; Eickemeyer (New York)</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Eickemeyer, Rudolf, Jr.</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">LC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">naf</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">prints00003</Data></Cell>
@@ -147,7 +147,7 @@
     <Cell ss:StyleID="s63"><Data ss:Type="String">prints00016</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">A. W. Elson &amp; Co. (Boston)</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">A.W. Elson &amp; Co. </Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">LC</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">naf</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s63"><Data ss:Type="String">prints00017</Data></Cell>
