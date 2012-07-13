@@ -5,7 +5,7 @@
         indent="yes"/>
     <xsl:output method="text"/>
     <xsl:output method="xml" indent="yes" name="xml"/>
-    
+
     <xsl:include href="VisualHistory_name.xsl"/>
     <!-- creates "name" and all subelements -->
     <xsl:include href="VisualHistory_originInfo.xsl"/>
@@ -74,13 +74,18 @@
             <xsl:value-of>RG-30/1/10.011</xsl:value-of>
         </xsl:element>
     </xsl:template>
-    
+
     <xsl:template name="legacyAccessionNumber">
-        <xsl:element name="identifier" inherit-namespaces="no" xmlns="http://www.loc.gov/mods/v3">
-            <xsl:attribute name="type">LegacyAccessionNumber</xsl:attribute>
-            <xsl:attribute name="displayLabel">Originating Collection</xsl:attribute>
-            <xsl:value-of select="COL[1]/DATA[1]"/>
-        </xsl:element>
+        <xsl:for-each select="COL[1]/DATA[1]">
+            <xsl:if test="./text()">
+                <xsl:element name="identifier" inherit-namespaces="no"
+                    xmlns="http://www.loc.gov/mods/v3">
+                    <xsl:attribute name="type">LegacyAccessionNumber</xsl:attribute>
+                    <xsl:attribute name="displayLabel">Originating Collection</xsl:attribute>
+                    <xsl:value-of select="."/>
+                </xsl:element>
+            </xsl:if>
+        </xsl:for-each>
     </xsl:template>
 
 
