@@ -122,28 +122,32 @@
 
     <xsl:template name="accessCondition">
         <xsl:for-each select="COL[18]/DATA[1]">
-        <xsl:element name="accessCondition" inherit-namespaces="no"
-            xmlns="http://www.loc.gov/mods/v3">
-            <xsl:attribute name="type">restrictionOnAccess</xsl:attribute>
-            <xsl:attribute name="displayLabel">Access to the Collection</xsl:attribute>
-            <xsl:value-of>RESTRICTED</xsl:value-of>
-        </xsl:element>
-        <xsl:element name="accessCondition" inherit-namespaces="no"
-            xmlns="http://www.loc.gov/mods/v3">
-            <xsl:attribute name="type">useAndReproduction</xsl:attribute>
-            <xsl:attribute name="displayLabel">Use and Reproduction</xsl:attribute>
-            <xsl:choose>
-                <xsl:when test="(. = '')">
-                    <xsl:value-of>This image may be reproduced without additional permission but must be credited © Rector and Visitors of the University of Virginia</xsl:value-of>
-                </xsl:when>
-                <xsl:when test="contains(./text(),'None')">
-                    <xsl:value-of>This image may be reproduced without additional permission but must be credited © Rector and Visitors of the University of Virginia</xsl:value-of>
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:value-of select="."/>
-                </xsl:otherwise>
-            </xsl:choose>
-        </xsl:element>
+            <xsl:element name="accessCondition" inherit-namespaces="no"
+                xmlns="http://www.loc.gov/mods/v3">
+                <xsl:attribute name="type">restrictionOnAccess</xsl:attribute>
+                <xsl:attribute name="displayLabel">Access to the Collection</xsl:attribute>
+                <xsl:value-of>RESTRICTED</xsl:value-of>
+            </xsl:element>
+            <xsl:element name="accessCondition" inherit-namespaces="no"
+                xmlns="http://www.loc.gov/mods/v3">
+                <xsl:attribute name="type">useAndReproduction</xsl:attribute>
+                <xsl:attribute name="displayLabel">Use and Reproduction</xsl:attribute>
+                <xsl:choose>
+                    <xsl:when test="(. = '')">
+                        <xsl:value-of>This image may be reproduced without additional permission but
+                            must be credited © Rector and Visitors of the University of
+                            Virginia</xsl:value-of>
+                    </xsl:when>
+                    <xsl:when test="contains(./text(),'None')">
+                        <xsl:value-of>This image may be reproduced without additional permission but
+                            must be credited © Rector and Visitors of the University of
+                            Virginia</xsl:value-of>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="."/>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:element>
         </xsl:for-each>
     </xsl:template>
 
@@ -152,7 +156,7 @@
             <xsl:value-of select="COL[3]/DATA[1]"/>
         </xsl:element>
     </xsl:template>
-    
+
     <xsl:template name="note">
         <xsl:element name="note" inherit-namespaces="no" xmlns="http://www.loc.gov/mods/v3">
             <xsl:attribute name="type">admin</xsl:attribute>
@@ -236,6 +240,6 @@
             <xsl:text>still image</xsl:text>
         </xsl:element>
     </xsl:template>
-    
+
 
 </xsl:stylesheet>
