@@ -78,7 +78,7 @@
     <xsl:template name="legacyAccessionNumber">
         <xsl:element name="identifier" inherit-namespaces="no" xmlns="http://www.loc.gov/mods/v3">
             <xsl:attribute name="type">LegacyAccessionNumber</xsl:attribute>
-            <xsl:attribute name="displayLabel">Accession Number</xsl:attribute>
+            <xsl:attribute name="displayLabel">Originating Collection</xsl:attribute>
             <xsl:value-of select="COL[1]/DATA[1]"/>
         </xsl:element>
     </xsl:template>
