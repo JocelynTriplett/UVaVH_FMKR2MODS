@@ -45,6 +45,7 @@
         <xsl:call-template name="abstract"/>
         <xsl:call-template name="physicalDescription"/>
         <xsl:call-template name="note"/>
+        <xsl:call-template name="legacyAccessionNumber"/>
         <xsl:call-template name="subject"/>
         <xsl:call-template name="relatedItem"/>
         <xsl:call-template name="publication"/>
@@ -70,6 +71,14 @@
     <xsl:template name="accessionNumber">
         <xsl:element name="identifier" inherit-namespaces="no" xmlns="http://www.loc.gov/mods/v3">
             <xsl:attribute name="type">accessionNumber</xsl:attribute>
+            <xsl:value-of>RG-30/1/10.011</xsl:value-of>
+        </xsl:element>
+    </xsl:template>
+    
+    <xsl:template name="legacyAccessionNumber">
+        <xsl:element name="identifier" inherit-namespaces="no" xmlns="http://www.loc.gov/mods/v3">
+            <xsl:attribute name="type">LegacyAccessionNumber</xsl:attribute>
+            <xsl:attribute name="displayLabel">Accession Number</xsl:attribute>
             <xsl:value-of select="COL[1]/DATA[1]"/>
         </xsl:element>
     </xsl:template>
@@ -222,5 +231,6 @@
             <xsl:text>still image</xsl:text>
         </xsl:element>
     </xsl:template>
+    
 
 </xsl:stylesheet>
