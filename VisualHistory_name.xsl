@@ -8,8 +8,10 @@
     <xsl:output method="text"/>
     <xsl:output method="xml" indent="yes" name="xml"/>
     
+    
+    <!-- Set Authorized Names XML file as parameter -->
     <xsl:param name="AuthorizedNames">
-        <xsl:value-of select="false()"/>
+        <xsl:value-of>VisualHistory_Master_test.xml</xsl:value-of>
     </xsl:param>
 
     <!-- <xsl:template name="name">
@@ -35,6 +37,12 @@
                 </xsl:variable>
                 <xsl:attribute name="authority">
                     <xsl:value-of select="$authority"/>
+                </xsl:attribute>
+                <xsl:variable name="type">
+                    <xsl:value-of select="document($AuthorizedNames)/ss:Workbook/ss:Worksheet/ss:Table/ss:Row[ss:Cell[1]/ss:Data/text()=$printsNumber]/ss:Cell[5]/ss:Data/text()"></xsl:value-of>
+                </xsl:variable>
+                <xsl:attribute name="type">
+                    <xsl:value-of select="$type"/>
                 </xsl:attribute>
             </xsl:when>
             </xsl:choose>
