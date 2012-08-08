@@ -229,8 +229,8 @@
                 <xsl:element name="languageTerm" inherit-namespaces="no"
                     xmlns="http://www.loc.gov/mods/v3">
                     <xsl:attribute name="type">code</xsl:attribute>
-                    <xsl:attribute name="authority">rfc3066</xsl:attribute>
-                    <xsl:text>en</xsl:text>
+                    <xsl:attribute name="authority">iso639-2</xsl:attribute>
+                    <xsl:text>eng</xsl:text>
                 </xsl:element>
             </xsl:element>
             <xsl:element name="recordCreationDate" inherit-namespaces="no"
