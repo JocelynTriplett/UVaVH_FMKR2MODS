@@ -189,23 +189,37 @@
                             xmlns="http://www.loc.gov/mods/v3">
                             <xsl:element name="title" inherit-namespaces="no"
                                 xmlns="http://www.loc.gov/mods/v3">
-                                <xsl:value-of select="COL[17]/DATA[1]"/>
+                                <xsl:value-of select="."/>
                             </xsl:element>
                         </xsl:element>
                         <xsl:element name="part">
-                            <xsl:element name="detail">
-                                <xsl:attribute name="type">volume</xsl:attribute>
-                                <xsl:element name="number">
-                                    <xsl:value-of select="COL[22]/DATA[1]"/>
-                                </xsl:element>
-                            </xsl:element>
-                            <xsl:element name="detail">
-                                <xsl:attribute name="type">issue</xsl:attribute>
-                                <xsl:element name="number">
-                                    <xsl:value-of select="COL[11]/DATA[1]"/>
-                                </xsl:element>
-                            </xsl:element>
+                            <xsl:for-each select="//COL[22]/DATA[1]">
+                                <xsl:choose>
+                                    <xsl:when test="./text()">
+                                        <xsl:element name="detail">
+                                            <xsl:attribute name="type">volume</xsl:attribute>
+                                            <xsl:element name="number">
+                                                <xsl:value-of select="."/>
+                                            </xsl:element>
+                                        </xsl:element>
+                                    </xsl:when>
+                                </xsl:choose>
+                            </xsl:for-each>
+                            <xsl:for-each select="//COL[11]/DATA[1]">
+                                <xsl:choose>
+                                    <xsl:when test="./text()">
+                                        <xsl:element name="detail">
+                                            <xsl:attribute name="type">issue</xsl:attribute>
+                                            <xsl:element name="number">
+                                                <xsl:value-of select="."/>
+                                            </xsl:element>
+                                        </xsl:element>
+                                    </xsl:when>
+                                </xsl:choose>
+                            </xsl:for-each>
                         </xsl:element>
+
+
                     </xsl:element>
                 </xsl:when>
             </xsl:choose>
