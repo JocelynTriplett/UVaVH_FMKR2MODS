@@ -229,7 +229,7 @@
                 <xsl:element name="languageTerm" inherit-namespaces="no"
                     xmlns="http://www.loc.gov/mods/v3">
                     <xsl:attribute name="type">code</xsl:attribute>
-                    <xsl:attribute name="authority">iso639-2</xsl:attribute>
+                    <xsl:attribute name="authority">iso639-2b</xsl:attribute>
                     <xsl:text>eng</xsl:text>
                 </xsl:element>
             </xsl:element>
