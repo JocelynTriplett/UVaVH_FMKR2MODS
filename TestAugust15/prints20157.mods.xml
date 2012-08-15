@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:date="java:java.util.Date"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+   <titleInfo>
+      <title>Governor John S. Battle and Advisors Visiting Hospital Wards</title>
+   </titleInfo>
+   <name authority="" type="">
+      <namePart/>
+      <role>
+         <roleTerm type="text" authority="marcrelator">photographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+      </role>
+   </name>
+   <typeOfResource collection="yes">still image</typeOfResource>
+   <genre authority="aat">black-and-white photographs</genre>
+   <identifier type="legacy" displayLabel="Prints Number">prints20157</identifier>
+   <identifier type="accessionNumber">RG-30/1/10.011</identifier>
+   <originInfo>
+      <place>
+         <placeTerm>Charlottesville (Va.)</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1953</dateCreated>
+   </originInfo>
+   <location>
+      <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+   </location>
+   <accessCondition type="restrictionOnAccess" displayLabel="Access to the Collection">RESTRICTED</accessCondition>
+   <accessCondition type="useAndReproduction" displayLabel="Use and Reproduction">Contact Claude Moore Health Sciences Library for Conditions of Use</accessCondition>
+   <abstract>This image was on the cover of the October, 1953 issue of the Medical Alumni
+                    News Letter, titled "State Budget Time And the Hospital Pleads Again."
+                    The relevant article, entitled "The Hospital: Request for State Money And
+                    How Can Alumni Help," reads (in part): "For the fourth consecutive
+                    meeting of the Virginia General Assembly in a period of eight years, officials
+                    and alumni of the University's Medical Center will plead with the State to
+                    pull the University Hospital out of its fire-hazardous, inefficient,
+                    money-consuming conidtion and make of it a center that can handle properly its
+                    expanded patient load and its medical educational role in the State. President
+                    Darden, fearful of a catastrophic fire that could wipe out everything and
+                    concerned with the high cost of maintaining antiquated hospital buildings which
+                    year after year frustrates plans for educational development in other deserving
+                    departments of the University, is wholeheartedly leading the request for State
+                    appropriations. Aiding the University's President, deans and alumni, will
+                    be a number of prominent non-alumni doctors, Virginia businessmen and lawyers
+                    from every section of the State who recognize that the request of the University
+                    Hospital is not a local project of a 'pork barrel' nature...but an
+                    essential need affecting every person in the State who might be referred to the
+                    Hospital for treatment of a difficult problem which could not be handled in his
+                    home town.... Formal request that the appropriation be made a part of the
+                    Governor's Budget was put to Governor Battle and members of his Advisory
+                    Budget Commission when they visited the Hospital on September twenty-fifth. The
+                    group of friends of the Hospital, assisting Medical Alumni President V. W.
+                    Archer, Dean T. H. Hunter, Assistant Dean H. B. Mulholland and Hospital Director
+                    John M. Stacey in presenting the need, made what many believe to be the
+                    strongest appeal ever to come from the Hospital-Medical School. Describing the
+                    Hospital's three main functions...as a laboratory for medical students in
+                    the clinical years; as a reference center for difficult cases from every section
+                    of the State; and as a general hospital to provide care for the indigent in the
+                    local area...members of the group urged the budget planners to understand that
+                    the appropriation is 'essential to the growth, essential to the very
+                    continuation of the medical school.' 'Physical faculties are not only
+                    inadequate, but at best the whole situation is unfair to the people of
+                    Virginia' who rely on the University as a medical center, said Mr. [P.]
+                    Hazelgrove [Staunton lawyer]. Unless improvements are made the school will lose
+                    its 'great collection of medical talent, its prestige and reputation.'
+                    Others brought out that though the pre-clinical laboratories are equipped to
+                    handle an increased number of students, the hospital facilities prevent
+                    additions for the clinical years of study and prevent development of
+                    postgraduate teacing of Virginia doctors who wish to come to the clinics to
+                    study. Dr. [Alex F.] Roberston [of Staunton] stressed that the hospital
+                    equipment was in 'deplorable' condition -- worse than any State
+                    medical school he knew of. Fire hazards amount to 'a terrible condition we
+                    shouldn't allow to exist,' said Mr. [J. B.] Woodward [President of the
+                    Newport News Shipbuilding and Drydock Company in Newport News], pointing out
+                    that such conditions wouldn't be tolerated in a business firm. 'With
+                    all these helpless people, a fire here would cause a real tragedy.' Justice
+                    [C. Vernon] Spratley [of the Virginia Supreme Court of Appeals, of Hampton],
+                    emphasizing the seriousness of conditions, said a 'real sense of duty'
+                    led him to journey from Hampton to Charlottesville to add his voice to appeals
+                    for the Hosptial appropriation. It is highly important to correct conditions in
+                    the overcrowded Negro wards -- or else critics of segregation would raise the
+                    cry of discrimination -- Mr. Darden answered Governor Battle's questions
+                    about the Negro facilities. 'We are doing the best we can for our Negro
+                    patients under circumstances that are almost intolerable,' Mr. Darden said.
+                    'They receive the best treatment, equal to that given any other patient,
+                    but the physical conditions in Negro Wards are fearfully poor. 'The State
+                    deserves to do better for them, and the Negro people deserve better from those
+                    controlling the State's political destinies...We are not doing what in good
+                    conscience ought to be done.' ....Backing up their words with a 'see
+                    for yourself' tour, officials and friends of the University escorted the
+                    budget planners through the 50-year old wings of the Hospital. They pointed out
+                    evidence of delapidation, danger and inefficiency...the overcrowded wards where
+                    some patients have to be bedded in narrow, dark corridors...nursing stations
+                    crowded into halls along with storage of clean and soiled laundry...high cost of
+                    housekeeping intensified by problems of rodent and insect control, cleaning of
+                    exposed pipes...overloaded electrical installations...inadequate number of fire
+                    exits...food serving stations which have been crowded into halls where
+                    employees, patients and visitors pass continually...limited isolation areas for
+                    nursery and obstetrical suites...health hazards risked because surgical suite is
+                    bisected by main public corridors and tuberculosis patients are often cared for
+                    on open wards...overcrowding of out-patient department which was designed for 90
+                    patients per day and now handles as many as 325...lack of central location for
+                    ancillary services...high c ost of transporting patients to X-ray...danger to
+                    patients caused by long distances that must be traveled from service to
+                    service...dangers presented by obsolete elevators...high cost of transporting
+                    food, laundry and supplies from loading stations to wards...high cost of
+                    maintenace of old buildings which have settled, casuing plaster on walls to
+                    break and fall, masonry to continually come loose, roof to need constant
+                    repairs, floors to break...inflexibility of wards to care for an expanded
+                    patient load which has increased from 65,441 days care in 1933 to 143,210 in
+                    1952.... The first of three tours of the Hospital for members of the Virginia
+                    General Assembly was held October eighth. Other tours will follow on October
+                    twenty-second and November nineteenth in accordance with a plan which requires
+                    assemblymen to visit all State institutions."</abstract>
+   <physicalDescription>
+      <form authority="aat">black-and-white photographs</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+      <note displayLabel="Staff Note">Original Negative Present</note>
+      <note displayLabel="Copy Negative"/>
+   </physicalDescription>
+   <note type="admin">Photo used in the UVa Health Sciences Library Exhibit - African Americans in
+                    the Health Care Profession</note>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="naf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <relatedItem type="series" displayLabel="Part of">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="series" displayLabel="Appears in">
+      <titleInfo>
+         <title>Uva Medical Alumni News Letter</title>
+      </titleInfo>
+      <part>
+         <detail type="volume">
+            <number>October, 1953</number>
+         </detail>
+         <detail type="issue">
+            <number/>
+         </detail>
+      </part>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <recordOrigin>Created programmatically by Digital Curation Services.</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-08-15T19:06:29.716Z</recordCreationDate>
+   </recordInfo>
+</mods>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:date="java:java.util.Date"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+   <titleInfo>
+      <title>Infirmary Building - Piedmont Sanatorium (Burkeville, VA)</title>
+   </titleInfo>
+   <name authority="" type="">
+      <namePart/>
+      <role>
+         <roleTerm type="text" authority="marcrelator">photographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+      </role>
+   </name>
+   <typeOfResource collection="yes">still image</typeOfResource>
+   <genre authority="aat">black-and-white negatives</genre>
+   <identifier type="legacy" displayLabel="Prints Number">prints20166</identifier>
+   <identifier type="accessionNumber">RG-30/1/10.011</identifier>
+   <originInfo>
+      <place>
+         <placeTerm>Charlottesville (Va.)</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1918</dateCreated>
+   </originInfo>
+   <location>
+      <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+   </location>
+   <accessCondition type="restrictionOnAccess" displayLabel="Access to the Collection">RESTRICTED</accessCondition>
+   <accessCondition type="useAndReproduction" displayLabel="Use and Reproduction">Contact Claude Moore Health Sciences Library for Conditions of Use</accessCondition>
+   <abstract>"Though less encumbered by the sentiments of the antebellum South
+                    (expressed by a prominent Richmond physician in 1850 when he observed that
+                    'the African consititution sinks before the heavy blows of the 'heroic
+                    school'), the medical profession nonetheless provided separate facilities
+                    and personnel for the treatment of black Virginians during the first half of the
+                    twentieth century. Physicians and nurses, alarmed by such pressing health
+                    concerns as the rise of tuberculosis across the Old Dominion, developed
+                    screening and treatment programs tailored to the legal strictures of
+                    segregation. Piedmont Sanatorium, founded with state support in 1919, embodied
+                    their best efforts providing affordable patient care as well as training for the
+                    growing numbers of black professionals in the health services." -- from the
+                    UVa Health Sciences Library Exhibit - African Americans in the Health Care
+                    Profession. A letter dated Feb. 11, 1919, about the Piedmont Sanitorium from the
+                    Commonwealth of Virginia's State Board of Health, addressed to doctors,
+                    reads: "Dear Doctor: Piedmont Sanitorium, the State Institution for the
+                    treatment of tuberculosis among the colored people of Virginia, was opened April
+                    22, 1918, with a capacity for eighty patients. The Sanatorium is one mile east
+                    of Burkeville, a junction of the Norfolk &amp; Western and Southern Railroads,
+                    and is easily accessible to all parts of the state. The charges are $2.50 per
+                    week, or $10.00 per month, payable after four weeks in advance. This rate
+                    includes board, medical attention and laundry. The main aim of the Sanatorium is
+                    to treat as many people as possible, so that they may return to their homes and
+                    educate those with whom they come in contact as to the safegaurds against
+                    tuberculosis and the method of curing the disease. To this end, preference in
+                    choosing cases for treatment at the sanatorium would naturally go to people in
+                    the early stages of the disease. Several advanced cases returned to their homes
+                    unimproved or dead will make it impossible for the institution to have a
+                    treatable case sent on. We need one or more early cases from your locality in
+                    order to give the people there concrete evidence in our argument that
+                    tuberculosis can be cured. For application blanks and further information, write
+                    to Dr. H. G. Carter, Supt., Piedmont Sanatorium, Burkeville, Va. Very truly
+                    yours, [Emerson G.] Williams." From a Release by the Hampton Institute
+                    Press Service: "Virginia Cares for Colored Consumptives.... Richmond, VA.,
+                    Mar. [1919?] -- Miss Agnes D. Randolph, Executive Secretary of the Virginia
+                    Anti-Tuberculosis Association, 1110 Capitol Street, makes the following
+                    announcement concerning the care of colored consumptive at the Piedmont
+                    Sanatorium, which was opened in April, 1918, for the proper care of suffering
+                    colored men and women of the Old Dominion. Miss Randolph says: 'The State
+                    opened its first hospital for colored patients suffering from tuberculosis or
+                    consumption, with forty beds, and, within four months, has added forty more.
+                    'There are vacant beds at the hospital today, although there are thousands
+                    of patients whose health might be restored by proper treatment. This means that
+                    the old false ideas about tuberculosis still hold. 'There are two reasons
+                    why there should never be a vacant bed in the hospital at Piedmont so long as
+                    there is a consumptive without hospital experience in his own home in Virginia:
+                    first, tuberculosis is curable; second, tuberculosis is preventable.
+                    'Tuberculosis is curable.... 'For hundreds of years people believed
+                    that tuberculosis was incurable; that is, if you had it, you must die.
+                    'Fifty years ago, a doctor named Trudeau had the disease and went into the
+                    mountains of New York expecting to die. He lived quietly, most of the time out
+                    of doors, and, to his surprise, improved. In two or three years one of his
+                    friends sent him a consumptive to treat and he also improved. More and more
+                    people came. In this way was started in America the treatment of tuberculosis
+                    which cures the disease. Hundreds of hospitals have been built since that time
+                    and tens of thousands of sick people have been treated and sent back to work.
+                    Dr. Trudea and the doctors working since his time have found that the way to
+                    treat tuberculosis is by providing rest, fresh air, and good food. 'This
+                    sounds easy, but, if you try it at hom, just as soon as you begin to feel better
+                    you want to get up and go visiting, or do a little work, and you undo all of the
+                    good you had done. In a hospital a doctor and nurse see that you rest and take
+                    the cure.' The charge at the Piedmont Sanatorium is $2.50 a week, or $10.00
+                    a month. Miss Agnes D. Randolph, 1110 Capitol Street, Richmond, or Dr. H. G.
+                    Carter, Burkeville, Va., will gladly furnish additional information." From
+                    a letter to Dr. D. B. Cole, Richmond, Va., dated January 6, 1920: 'Dear Dr.
+                    Cole: 'The National Association appropriated to Peidmont Sanatorium from
+                    March 1, 1919 to March 1, 1920 the sum of $2,500 to establish occupational
+                    therapy. A part of this sum was also to be expended for a post-graduate course
+                    for the colored doctors of the State. This work, although started late, is
+                    fairly well under progress, but has not progressed to the point that we can ask
+                    t he Legislature of 1920 to continue same. We ask that the National Association
+                    continue this fund during 1920 and 1921, especially in regard to the post
+                    graduate work for colored doctors. Untold good can be done in developing this
+                    line of work. There are in the State about eighty colored physicians,
+                    practically 50% of whom could be persuaded to take a short post-graduate course
+                    at Peidmont. 'This work will be discontinued March 1, 1920 unless supported
+                    by the National Association, certainly until 1921, and it is our urgent request
+                    that you bring this matter to the attention of the National Association at an
+                    appropriate time. 'Yours truly, H. G. Carter, Superintendent.' Cf.
+                    prints 20167.</abstract>
+   <physicalDescription>
+      <form authority="aat">black-and-white negatives</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+      <note displayLabel="Staff Note">Original Negative Present</note>
+      <note displayLabel="Copy Negative"/>
+   </physicalDescription>
+   <note type="admin">Prints folder contains: Hampton Institue Press Services Release "Virginia
+                    Cares for Colored Consumptive"; Letter regarding the opening of Piedmont
+                    Sanatorium to doctors; Copy of application for admission to the sanatorium; Copy
+                    of invitation from the graduating class of the Piedmont Sanatorium Training
+                    School for Nurses (1951); Copy of the VA Dept. of Health - Health Bulletin Vol.
+                    III, No.1 (November 1938); Copy of letter from HG. Carter to D.B. Cole regarding
+                    a $2500 appropriation to the Sanatorium for occupational therapy; Photo used in
+                    the UVa Health Sciences Library Exhibit - African Americans in the Health Care
+                    Profession. Cf. prints 20167.</note>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="naf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="naf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Health System</topic>
+   </subject>
+   <relatedItem type="series" displayLabel="Part of">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="series" displayLabel="Appears in">
+      <titleInfo>
+         <title/>
+      </titleInfo>
+      <part>
+         <detail type="volume">
+            <number/>
+         </detail>
+         <detail type="issue">
+            <number/>
+         </detail>
+      </part>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <recordOrigin>Created programmatically by Digital Curation Services.</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-08-15T19:06:29.724Z</recordCreationDate>
+   </recordInfo>
+</mods>

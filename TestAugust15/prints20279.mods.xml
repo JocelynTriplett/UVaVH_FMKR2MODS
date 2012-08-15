@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:date="java:java.util.Date"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+   <titleInfo>
+      <title>Hospital Chaplain Reverend Walter A. Henricks and his Assistant Deaconess Mary
+                    Sandys Hutton</title>
+   </titleInfo>
+   <name authority="" type="">
+      <namePart/>
+      <role>
+         <roleTerm type="text" authority="marcrelator">photographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+      </role>
+   </name>
+   <typeOfResource collection="yes">still image</typeOfResource>
+   <genre authority="aat">black-and-white photographs</genre>
+   <identifier type="legacy" displayLabel="Prints Number">prints20279</identifier>
+   <identifier type="accessionNumber">RG-30/1/10.011</identifier>
+   <originInfo>
+      <place>
+         <placeTerm>Charlottesville (Va.)</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1957</dateCreated>
+   </originInfo>
+   <location>
+      <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+   </location>
+   <accessCondition type="restrictionOnAccess" displayLabel="Access to the Collection">RESTRICTED</accessCondition>
+   <accessCondition type="useAndReproduction" displayLabel="Use and Reproduction">Contact Claude Moore Health Sciences Library for Conditions of Use</accessCondition>
+   <abstract>From the Medical Alumni News Letter, July, 1957: "The Rev. Walter A.
+                    Henricks, University of Virginia Hospital Chaplain, and Deconess Mary Sandys
+                    Hutton, Assistant Chaplain, are shown in the Hospital's Mediation Room,
+                    located on Barringer II. "Installed as the Hospital's first full-time
+                    chaplain last November, Mr. Henricks has inaugurated a nondenominational
+                    ministry in the hospital which emphasizes visits and counselling with patients
+                    and includes a Sunday services for adult patiens in the J Ward Solarium and a
+                    Sunday School program for children in the pediatrics ward. Counselling with
+                    student nurses, medical students, and House Staff is also included. "The
+                    program is being financed for two years by the gift of an Episcopal layman, made
+                    through the Diocese of Virginia. "Deaconness Hutton, who served for many
+                    years at St. George's Mission in the Blue Ridge Mountains, was recently
+                    appointed Assistant Chaplain. A polio victim, Deaconess Hutton makes her rounds
+                    of the wards in a wheelchair."</abstract>
+   <physicalDescription>
+      <form authority="aat">black-and-white photographs</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+      <note displayLabel="Staff Note">Original Negative Present</note>
+      <note displayLabel="Copy Negative"/>
+   </physicalDescription>
+   <note type="admin">Negative included in folder</note>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="naf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <relatedItem type="series" displayLabel="Part of">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="series" displayLabel="Appears in">
+      <titleInfo>
+         <title>UVa Medical Alumni News Letter, July 1957</title>
+      </titleInfo>
+      <part>
+         <detail type="volume">
+            <number>Vol. 9</number>
+         </detail>
+         <detail type="issue">
+            <number>No. 5</number>
+         </detail>
+      </part>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <recordOrigin>Created programmatically by Digital Curation Services.</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-08-15T19:06:29.834Z</recordCreationDate>
+   </recordInfo>
+</mods>

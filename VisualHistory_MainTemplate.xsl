@@ -158,10 +158,17 @@
     </xsl:template>
 
     <xsl:template name="note">
-        <xsl:element name="note" inherit-namespaces="no" xmlns="http://www.loc.gov/mods/v3">
-            <xsl:attribute name="type">admin</xsl:attribute>
-            <xsl:value-of select="COL[2]/DATA[1]"/>
-        </xsl:element>
+        <xsl:for-each select="COL[2]/DATA[1]">
+            <xsl:choose>
+                <xsl:when test="./text()">
+                    <xsl:element name="note" inherit-namespaces="no"
+                        xmlns="http://www.loc.gov/mods/v3">
+                        <xsl:attribute name="type">admin</xsl:attribute>
+                        <xsl:value-of select="."/>
+                    </xsl:element>
+                </xsl:when>
+            </xsl:choose>
+        </xsl:for-each>
     </xsl:template>
 
     <xsl:template name="relatedItem">
