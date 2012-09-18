@@ -134,14 +134,10 @@
                 <xsl:attribute name="displayLabel">Use and Reproduction</xsl:attribute>
                 <xsl:choose>
                     <xsl:when test="(. = '')">
-                        <xsl:value-of>This image may be reproduced without additional permission but
-                            must be credited © Rector and Visitors of the University of
-                            Virginia</xsl:value-of>
+                        <xsl:value-of>This image may be reproduced without additional permission but must be credited © Rector and Visitors of the University of Virginia</xsl:value-of>
                     </xsl:when>
                     <xsl:when test="contains(./text(),'None')">
-                        <xsl:value-of>This image may be reproduced without additional permission but
-                            must be credited © Rector and Visitors of the University of
-                            Virginia</xsl:value-of>
+                        <xsl:value-of>This image may be reproduced without additional permission but must be credited © Rector and Visitors of the University of Virginia</xsl:value-of>
                     </xsl:when>
                     <xsl:otherwise>
                         <xsl:value-of select="."/>
