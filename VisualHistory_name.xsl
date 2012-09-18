@@ -10,7 +10,7 @@
 
     <!-- Set Authorized Names XML file as parameter -->
     <xsl:param name="AuthorizedNames">
-        <xsl:value-of>VisualHistory_Master_test.xml</xsl:value-of>
+        <xsl:value-of>AuthorizedNames.xml</xsl:value-of>
     </xsl:param>
 
     <!-- <xsl:template name="name">
