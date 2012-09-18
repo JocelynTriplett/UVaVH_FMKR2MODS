@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:date="java:java.util.Date"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+   <titleInfo>
+      <title>John F. Harlan</title>
+   </titleInfo>
+   <name authority="" type="">
+      <namePart/>
+      <role>
+         <roleTerm type="text" authority="marcrelator">photographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+      </role>
+   </name>
+   <typeOfResource collection="yes">still image</typeOfResource>
+   <genre authority="aat">black-and-white photographs</genre>
+   <identifier type="legacy" displayLabel="Prints Number">prints20275</identifier>
+   <identifier type="accessionNumber">RG-30/1/10.011</identifier>
+   <originInfo>
+      <place>
+         <placeTerm>Charlottesville (Va.)</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1973</dateCreated>
+   </originInfo>
+   <location>
+      <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+   </location>
+   <accessCondition type="restrictionOnAccess" displayLabel="Access to the Collection">RESTRICTED</accessCondition>
+   <accessCondition type="useAndReproduction" displayLabel="Use and Reproduction">Contact Claude Moore Health Sciences Library for Conditions of Use</accessCondition>
+   <abstract>From the Draw Sheet, September 1973, p. 3, article "Know Your
+                    Administrator," which reads (in part): "John F. Harlan, Jr., Director
+                    of the University Hospital, is a native of Charlottesville. A graduate of Lane
+                    High School, he received a B.A. degree in psychology from the University of
+                    Virginia and completed graduate study in hospital administration at the Medical
+                    College of Virginia. "After 14 years of experience in hospital
+                    administration here, first as an Administrative Assistant, then Assistant
+                    Director and later Associate Director, Harlan was appointed Director in 1965 --
+                    at that time one of the youngest directors of a major hospital in the U.S.
+                    "As Director, he has the responsibility for the administration of the
+                    University Hospital and the Children's Rehabilitation Cdenter. The Director
+                    must see that sound management principles are applied to the overall Medical
+                    Center programs to assure that adequate medical care is provided as economically
+                    as possible. "The Director is concerned with basic administrative processes
+                    of planning, staffing, coordinating, reporting, budgeting and directing.
+                    Supervisory control is exercised over all administrative phases through staff
+                    meetings and individual conferences...."</abstract>
+   <physicalDescription>
+      <form authority="aat">black-and-white photographs</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+      <note displayLabel="Staff Note">Original Negative Present</note>
+      <note displayLabel="Copy Negative"/>
+   </physicalDescription>
+   <note type="admin">Negative included in folder</note>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="naf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="naf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Faculty</topic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="naf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Students</topic>
+   </subject>
+   <relatedItem type="series" displayLabel="Part of">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="series" displayLabel="Appears in">
+      <titleInfo>
+         <title>The Draw Sheet, September 1973</title>
+      </titleInfo>
+      <part>
+         <detail type="volume">
+            <number>Vol. 21</number>
+         </detail>
+         <detail type="issue">
+            <number>No. 6</number>
+         </detail>
+      </part>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <recordOrigin>Created programmatically by Digital Curation Services.</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-08-15T19:06:29.83Z</recordCreationDate>
+   </recordInfo>
+</mods>

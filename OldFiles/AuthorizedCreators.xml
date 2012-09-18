@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>jbo3d</Author>
+  <LastAuthor>jbo3d</LastAuthor>
+  <Created>2012-05-21T20:32:34Z</Created>
+  <Version>14.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>15020</WindowHeight>
+  <WindowWidth>25360</WindowWidth>
+  <WindowTopX>240</WindowTopX>
+  <WindowTopY>240</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font x:Family="Swiss" ss:Size="12" ss:Color="#DD0806"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Vertical="Center"/>
+   <Font x:Family="Swiss"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="20" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="106"/>
+   <Column ss:AutoFitWidth="0" ss:Width="305"/>
+   <Column ss:AutoFitWidth="0" ss:Width="322"/>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00001</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&quot;Brown's Famous Pictures&quot;</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">G.P. Brown &amp; Co.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">naf</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00002</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">[?] &amp; Eickemeyer (New York)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Eickemeyer, Rudolf, Jr.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">naf</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">[L. Swank]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Swank, Larry</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00004</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A J Weed</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Weed, A.J.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">VIRGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00005</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A. Antone</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Antone, A.</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00006</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A. F. Smith's (Charlottesville)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Smith, A.F. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00007</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A. H. Plecker (Lynchburg, VA)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Plecker's (A.H.) New Gallery, Lynchburg, Va.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">VIRGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00008</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A. H. Plecker (Lynchburg, VA)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Plecker's (A.H.) New Gallery, Lynchburg, Va. </Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">VIRGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00009</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A. J. Van Liew (York, Neb.)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Van Liew, A.J. (York, NE)</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00010</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A. J. Weed</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Weed, A.J.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">VIRGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00011</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A. J. Weed</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Weed, A.J.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">VIRGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00012</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A. J. Weed</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Weed, A.J.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">VIRGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00013</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A. J. Weed</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Weed, A.J.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">VIRGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00014</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A. Shadle (Latrobe, PA)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Shadle, A. (Lastrobe, PA)</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A. von Mumm Schwartzenstein</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">von Mumm Schwartzenstein, A.</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00016</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A. W. Elson &amp; Co. (Boston)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">A.W. Elson &amp; Co. </Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">naf</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00017</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A.F. Bradley</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Bradley, A.F.</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00018</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A.F. Smith</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Smith, A.F.</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00019</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A.F. Smith</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Smith, A.F.</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">prints00020</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A.J. Weed</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Weed, A.J.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">VIRGO</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>10</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FMPXMLRESULT xmlns="http://www.filemaker.com/fmpxmlresult">
+ <ERRORCODE>0</ERRORCODE>
+ <PRODUCT BUILD="11/22/2002" NAME="FileMaker Pro" VERSION="6.0v4"/>
+ <DATABASE DATEFORMAT="M/d/yyyy" LAYOUT="main" NAME="" RECORDS="16161" TIMEFORMAT="h:mm:ss a"/>
+ <METADATA>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Acc Num" TYPE="TEXT"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="admin info" TYPE="TEXT"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Comments" TYPE="TEXT"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Copy Negative" TYPE="TEXT"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="creation date" TYPE="DATE"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Date" TYPE="TEXT"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Format" TYPE="TEXT"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Genre" TYPE="TEXT"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="id" TYPE="NUMBER"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Image Filename" TYPE="TEXT"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="issue" TYPE="TEXT"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Keyword" TYPE="TEXT"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Mod date" TYPE="DATE"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Mod time" TYPE="TIME"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Negyesno" TYPE="TEXT"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Photographer" TYPE="TEXT"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="publication" TYPE="TEXT"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="restrictions" TYPE="TEXT"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Source" TYPE="TEXT"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="time " TYPE="TIME"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Title" TYPE="TEXT"/>
+  <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="volume" TYPE="TEXT"/>
+ </METADATA>
+ <RESULTSET FOUND="16161">
+  <ROW MODID="26" RECORDID="10">
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>11 copies of print in folder</DATA>
+   </COL>
+   <COL>
+    <DATA>Neg 4x5 1681, Neg 8x10 7</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>1827</DATA>
+   </COL>
+   <COL>
+    <DATA></DATA>
+   </COL>
+   <COL>
+    <DATA>Rotunda UVa Misc</DATA>
+   </COL>
+   <COL>
+    <DATA>1</DATA>
+   </COL>
+   <COL>
+    <DATA>prints00001</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Rotunda and Lawn, B. Tanner engraving from Boye&apos;s Map of Virginia 11 copies of print
+     in folder engraving </DATA>
+   </COL>
+   <COL>
+    <DATA>6/27/2008</DATA>
+   </COL>
+   <COL>
+    <DATA>2:40:26 PM</DATA>
+   </COL>
+   <COL>
+    <DATA>Yes</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>None</DATA>
+   </COL>
+   <COL>
+    <DATA>Special Collections</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Rotunda and Lawn, B. Tanner engraving from Boye&apos;s Map of Virginia</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+  </ROW>
+  <ROW MODID="18" RECORDID="11">
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Rotunda and Lawn, from the south. Printed by Fenner Sears &amp; Co., Published by I. T.
+     Hinton &amp; Simpkin &amp; Marshall, London, Dec. 1831. 1 b&amp;w engraving, 1 photograph, 1
+     xerox.</DATA>
+   </COL>
+   <COL>
+    <DATA>Neg 4x5 205</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>1831</DATA>
+   </COL>
+   <COL>
+    <DATA>engraving</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>2</DATA>
+   </COL>
+   <COL>
+    <DATA>prints00002</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>University of Virginia, Charlottesville W. Goodacre Rotunda and Lawn, from the south.
+     Printed by Fenner Sears &amp; Co., Published by I. T. Hinton &amp; Simpkin &amp; Marshall,
+     London, Dec. 1831. 1 b&amp;w engraving, 1 photograph, 1 xerox. engraving </DATA>
+   </COL>
+   <COL>
+    <DATA>8/24/2005</DATA>
+   </COL>
+   <COL>
+    <DATA>1:46:47 PM</DATA>
+   </COL>
+   <COL>
+    <DATA>Yes</DATA>
+   </COL>
+   <COL>
+    <DATA>W. Goodacre</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>None</DATA>
+   </COL>
+   <COL>
+    <DATA>Special Collections</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>University of Virginia, Charlottesville</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+  </ROW>
+  <ROW MODID="13" RECORDID="16">
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Rotunda and Lawn, from the south. Published by J. &amp; F. Tallis. Detail lower left
+     cartouche neg. 35-108-E. 1 color engraving, 2 photographs.</DATA>
+   </COL>
+   <COL>
+    <DATA>Neg 4x5 205A, detail Neg 35 108E</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>1831</DATA>
+   </COL>
+   <COL>
+    <DATA>engraving</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>3</DATA>
+   </COL>
+   <COL>
+    <DATA>prints00003</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>University of Virginia, Charlottesville W. Goodacre Rotunda and Lawn, from the south.
+     Published by J. &amp; F. Tallis. Detail lower left cartouche neg. 35-108-E. 1 color engraving,
+     2 photographs. engraving </DATA>
+   </COL>
+   <COL>
+    <DATA>2/14/2005</DATA>
+   </COL>
+   <COL>
+    <DATA>1:07:35 PM</DATA>
+   </COL>
+   <COL>
+    <DATA>Yes</DATA>
+   </COL>
+   <COL>
+    <DATA>W. Goodacre</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>None</DATA>
+   </COL>
+   <COL>
+    <DATA>Special Collections</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>University of Virginia, Charlottesville</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+  </ROW>
+  <ROW MODID="14" RECORDID="17">
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Rotunda and Lawn, from the south, based on 1831 Goodacre drawing and published in
+     &quot;Cyclopedia of Useful Knowledge.&quot; 3 engravings.</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>1835</DATA>
+   </COL>
+   <COL>
+    <DATA>engraving</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>4</DATA>
+   </COL>
+   <COL>
+    <DATA>prints00004</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>College in Charlottesville Rotunda and Lawn, from the south, based on 1831 Goodacre
+     drawing and published in &quot;Cyclopedia of Useful Knowledge.&quot; 3 engravings. engraving
+    </DATA>
+   </COL>
+   <COL>
+    <DATA>2/14/2005</DATA>
+   </COL>
+   <COL>
+    <DATA>1:07:41 PM</DATA>
+   </COL>
+   <COL>
+    <DATA>No</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>None</DATA>
+   </COL>
+   <COL>
+    <DATA>Special Collections</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>College in Charlottesville</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+  </ROW>
+  <ROW MODID="12" RECORDID="18">
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Based on 1831 Goodacre drawing of Rotunda and Lawn, from the south. 1 engraving.</DATA>
+   </COL>
+   <COL>
+    <DATA>Neg 35 108C</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>1831 [?]</DATA>
+   </COL>
+   <COL>
+    <DATA>engraving</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>5</DATA>
+   </COL>
+   <COL>
+    <DATA>prints00005</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Universitut Von Virginia, Charlottesville Based on 1831 Goodacre drawing of Rotunda and
+     Lawn, from the south. 1 engraving. engraving </DATA>
+   </COL>
+   <COL>
+    <DATA>2/23/2005</DATA>
+   </COL>
+   <COL>
+    <DATA>12:26:34 PM</DATA>
+   </COL>
+   <COL>
+    <DATA>Yes</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>None</DATA>
+   </COL>
+   <COL>
+    <DATA>Special Collections</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Universitut Von Virginia, Charlottesville</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+  </ROW>
+  <ROW MODID="11" RECORDID="19">
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Rotunda and Lawn, from the south. Removed from unknown book. 1 engraving.</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>unknown</DATA>
+   </COL>
+   <COL>
+    <DATA>engraving</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>6</DATA>
+   </COL>
+   <COL>
+    <DATA>prints00006</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>University of Virginia, Charlottesville Rotunda and Lawn, from the south. Removed from
+     unknown book. 1 engraving. engraving </DATA>
+   </COL>
+   <COL>
+    <DATA>9/21/2005</DATA>
+   </COL>
+   <COL>
+    <DATA>10:30:12 AM</DATA>
+   </COL>
+   <COL>
+    <DATA>No</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>None</DATA>
+   </COL>
+   <COL>
+    <DATA>Special Collections</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>University of Virginia, Charlottesville</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+  </ROW>
+  <ROW MODID="11" RECORDID="20">
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Rotunda and Lawn, from the south. Removed from unknown book. 1 engraving.</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>unknown</DATA>
+   </COL>
+   <COL>
+    <DATA>engraving</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>7</DATA>
+   </COL>
+   <COL>
+    <DATA>prints00007</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>University of Virginia Rotunda and Lawn, from the south. Removed from unknown book. 1
+     engraving. engraving </DATA>
+   </COL>
+   <COL>
+    <DATA>9/21/2005</DATA>
+   </COL>
+   <COL>
+    <DATA>10:30:12 AM</DATA>
+   </COL>
+   <COL>
+    <DATA>No</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>None</DATA>
+   </COL>
+   <COL>
+    <DATA>Special Collections</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>University of Virginia</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+  </ROW>
+  <ROW MODID="15" RECORDID="21">
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Rotunda and Lawn, from the south. 13 engravings, 10 b&amp;w photographs .</DATA>
+   </COL>
+   <COL>
+    <DATA>Neg 4x5 896</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>unknown</DATA>
+   </COL>
+   <COL>
+    <DATA>engraving</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>8</DATA>
+   </COL>
+   <COL>
+    <DATA>prints00008</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Die Virginia - Universitat (Vereim, Staatem v. Nord-America) Poppel Rotunda and Lawn, from
+     the south. 13 engravings, 10 b&amp;w photographs . engraving </DATA>
+   </COL>
+   <COL>
+    <DATA>9/21/2005</DATA>
+   </COL>
+   <COL>
+    <DATA>10:30:12 AM</DATA>
+   </COL>
+   <COL>
+    <DATA>Yes</DATA>
+   </COL>
+   <COL>
+    <DATA>Poppel</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>None</DATA>
+   </COL>
+   <COL>
+    <DATA>Special Collections</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Die Virginia - Universitat (Vereim, Staatem v. Nord-America)</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+  </ROW>
+  <ROW MODID="11" RECORDID="22">
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Rotunda and Lawn, from the south. 1 color engraving.</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>unknown</DATA>
+   </COL>
+   <COL>
+    <DATA>engraving</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>9</DATA>
+   </COL>
+   <COL>
+    <DATA>prints00009</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>The Virginia - University, Charlottesville Poppel Rotunda and Lawn, from the south. 1
+     color engraving. engraving </DATA>
+   </COL>
+   <COL>
+    <DATA>9/21/2005</DATA>
+   </COL>
+   <COL>
+    <DATA>10:30:12 AM</DATA>
+   </COL>
+   <COL>
+    <DATA>Yes</DATA>
+   </COL>
+   <COL>
+    <DATA>Poppel</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>None</DATA>
+   </COL>
+   <COL>
+    <DATA>Special Collections</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>The Virginia - University, Charlottesville</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+  </ROW>
+  <ROW MODID="11" RECORDID="23">
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Rotunda and Lawn, from the south. 1 b&amp;w photograph.</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>1824</DATA>
+   </COL>
+   <COL>
+    <DATA>glass negative</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>10</DATA>
+   </COL>
+   <COL>
+    <DATA>prints00010</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>University - Lawn View (Early Drawing, Just Before Completion, 1824) Poppel Rotunda and
+     Lawn, from the south. 1 b&amp;w photograph. glass negative </DATA>
+   </COL>
+   <COL>
+    <DATA>2/25/2004</DATA>
+   </COL>
+   <COL>
+    <DATA>10:35:20 AM</DATA>
+   </COL>
+   <COL>
+    <DATA>No</DATA>
+   </COL>
+   <COL>
+    <DATA>Poppel</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>None</DATA>
+   </COL>
+   <COL>
+    <DATA>Special Collections</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>University - Lawn View (Early Drawing, Just Before Completion, 1824)</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+  </ROW>
+  <ROW MODID="15" RECORDID="27">
+   <COL>
+    <DATA>MSS 9188-a</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>French engraving of the Rotunda and Lawn, from the south. labeled at top of image
+     &quot;Etats Unis&quot;; Signed, lower left, &quot;Arnout, del.&quot; and signed, lower right,
+     &quot;Travesier, Sc.&quot; 3 b&amp; w engravings, 1 color engraving (RG 30/1/8.801 item 6), 1
+     b&amp;w photograph.</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>ca. 1835-1837</DATA>
+   </COL>
+   <COL>
+    <DATA>engraving</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>11</DATA>
+   </COL>
+   <COL>
+    <DATA>prints00011</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Universite de Virginie French engraving of the Rotunda and Lawn, from the south. labeled
+     at top of image &quot;Etats Unis&quot;; Signed, lower left, &quot;Arnout, del.&quot; and
+     signed, lower right, &quot;Travesier, Sc.&quot; 3 b&amp; w engravings, 1 color engraving (RG
+     30/1/8.801 item 6), 1 b&amp;w photograph. engraving </DATA>
+   </COL>
+   <COL>
+    <DATA>9/29/2006</DATA>
+   </COL>
+   <COL>
+    <DATA>4:48:11 PM</DATA>
+   </COL>
+   <COL>
+    <DATA>No</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>None</DATA>
+   </COL>
+   <COL>
+    <DATA>Special Collections</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Universite de Virginie</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+  </ROW>
+  <ROW MODID="18" RECORDID="28">
+   <COL>
+    <DATA>RG-30/1/8.801 #16</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Rotunda and Lawn, from the south. 1 b&amp;w engraving, 1 color engraving, 3 b&amp;w
+     photographs, 1 negative photostat.</DATA>
+   </COL>
+   <COL>
+    <DATA>Neg 4x5 897</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>1843-1845</DATA>
+   </COL>
+   <COL>
+    <DATA>engraving</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>12</DATA>
+   </COL>
+   <COL>
+    <DATA>prints00012</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>University of Virginia, at Charlottesville Henry Howe [?] Rotunda and Lawn, from the
+     south. 1 b&amp;w engraving, 1 color engraving, 3 b&amp;w photographs, 1 negative photostat.
+     engraving </DATA>
+   </COL>
+   <COL>
+    <DATA>2/23/2005</DATA>
+   </COL>
+   <COL>
+    <DATA>12:27:36 PM</DATA>
+   </COL>
+   <COL>
+    <DATA>Yes</DATA>
+   </COL>
+   <COL>
+    <DATA>Henry Howe [?]</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>None</DATA>
+   </COL>
+   <COL>
+    <DATA>Special Collections</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>University of Virginia, at Charlottesville</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+  </ROW>
+  <ROW MODID="11" RECORDID="29">
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Rotunda and Lawn, from the vicinity of Vinegar Hill. Gentleman hunter with dog in
+     foreground, the University in the background. 1 positive and 2 negative photostats. Original
+     engraving in Betts Collection. Betts Collection #18</DATA>
+   </COL>
+   <COL>
+    <DATA>Neg 4x5 884</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>ca. 1845</DATA>
+   </COL>
+   <COL>
+    <DATA>engraving</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>13</DATA>
+   </COL>
+   <COL>
+    <DATA>prints00013</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Rotunda and Lawn, view from east Rotunda and Lawn, from the vicinity of Vinegar Hill.
+     Gentleman hunter with dog in foreground, the University in the background. 1 positive and 2
+     negative photostats. Original engraving in Betts Collection. Betts Collection #18 engraving
+    </DATA>
+   </COL>
+   <COL>
+    <DATA>2/25/2004</DATA>
+   </COL>
+   <COL>
+    <DATA>12:35:19 PM</DATA>
+   </COL>
+   <COL>
+    <DATA>Yes</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>None</DATA>
+   </COL>
+   <COL>
+    <DATA>Special Collections</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Rotunda and Lawn, view from east</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+  </ROW>
+  <ROW MODID="12" RECORDID="30">
+   <COL>
+    <DATA>MSS 1453, MSS 7598, Betts Collection #9</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Publisher&apos;s inscription on bottom right, &quot; P. S. Duval&apos;s Steam lith. Press.
+     Philad.&quot; 5 b&amp;w photographs, 2 positive photostats, 5 negative photostats. Also
+     negative and positive photostats of back of Betts lithograph with notation, &quot;University of
+     Va. 1849, from &apos;Autograph Album of the University&apos; - 1850. Note Rotunda without North
+     portico. This is one of the most interesting prints since it shows the Rotunda as Jefferson
+     built it.&quot;</DATA>
+   </COL>
+   <COL>
+    <DATA>Neg 35 73</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>1849</DATA>
+   </COL>
+   <COL>
+    <DATA>lithograph</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>14</DATA>
+   </COL>
+   <COL>
+    <DATA>prints00014</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>University of Virginia, from the east P. S. Duval Publisher&apos;s inscription on bottom
+     right, &quot; P. S. Duval&apos;s Steam lith. Press. Philad.&quot; 5 b&amp;w photographs, 2
+     positive photostats, 5 negative photostats. Also negative and positive photostats of back of
+     Betts lithograph with notation, &quot;University of Va. 1849, from &apos;Autograph Album of the
+     University&apos; - 1850. Note Rotunda without North portico. This is one of the most
+     interesting prints since it shows the Rotunda as Jefferson built it.&quot; lithograph </DATA>
+   </COL>
+   <COL>
+    <DATA>2/18/2005</DATA>
+   </COL>
+   <COL>
+    <DATA>2:47:03 PM</DATA>
+   </COL>
+   <COL>
+    <DATA>Yes</DATA>
+   </COL>
+   <COL>
+    <DATA>P. S. Duval</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>None</DATA>
+   </COL>
+   <COL>
+    <DATA>Special Collections</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>University of Virginia, from the east</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+  </ROW>
+  <ROW MODID="12" RECORDID="31">
+   <COL>
+    <DATA>MSS 7598</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Rotunda, from the south. Publisher&apos;s inscription on bottom right, &quot;Lith. of P.
+     S. Duval. Philada.&quot; 4 b&amp;w photographs, 1 positive and 1 negative photostat.</DATA>
+   </COL>
+   <COL>
+    <DATA>Neg 35 13I</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>ca. 1846-1851</DATA>
+   </COL>
+   <COL>
+    <DATA>lithograph</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>15</DATA>
+   </COL>
+   <COL>
+    <DATA>prints00015</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Rotunda P. S. Duval Rotunda, from the south. Publisher&apos;s inscription on bottom right,
+     &quot;Lith. of P. S. Duval. Philada.&quot; 4 b&amp;w photographs, 1 positive and 1 negative
+     photostat. lithograph </DATA>
+   </COL>
+   <COL>
+    <DATA>2/25/2004</DATA>
+   </COL>
+   <COL>
+    <DATA>10:35:42 AM</DATA>
+   </COL>
+   <COL>
+    <DATA>Yes</DATA>
+   </COL>
+   <COL>
+    <DATA>P. S. Duval</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>None</DATA>
+   </COL>
+   <COL>
+    <DATA>Special Collections</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>Rotunda</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+  </ROW>
+  <ROW MODID="15" RECORDID="32">
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>University of Virginia, showing Rotunda, from the east; view includes railroad train in
+     foreground. Image published in &quot;Harper&apos;s New Monthly Magazine&quot; Vol. XIII, August
+     1856, p. 304. Image also on stationary letterhead of letter in UVa chronological file: 1858
+     Oct. 14, H. M. Heath to Dr. George C. Tyler. 3 b&amp;w photographs. Betts #7073 item 8</DATA>
+   </COL>
+   <COL>
+    <DATA>Neg 35 195 8</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>1853</DATA>
+   </COL>
+   <COL>
+    <DATA>engraving</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>16</DATA>
+   </COL>
+   <COL>
+    <DATA>prints00016</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>University of Virginia Porte Crayon [?] University of Virginia, showing Rotunda, from the
+     east; view includes railroad train in foreground. Image published in &quot;Harper&apos;s New
+     Monthly Magazine&quot; Vol. XIII, August 1856, p. 304. Image also on stationary letterhead of
+     letter in UVa chronological file: 1858 Oct. 14, H. M. Heath to Dr. George C. Tyler. 3 b&amp;w
+     photographs. Betts #7073 item 8 engraving </DATA>
+   </COL>
+   <COL>
+    <DATA>2/23/2005</DATA>
+   </COL>
+   <COL>
+    <DATA>12:28:24 PM</DATA>
+   </COL>
+   <COL>
+    <DATA>Yes</DATA>
+   </COL>
+   <COL>
+    <DATA>Porte Crayon [?]</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>None</DATA>
+   </COL>
+   <COL>
+    <DATA>Special Collections</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+   <COL>
+    <DATA>University of Virginia</DATA>
+   </COL>
+   <COL>
+    <DATA/>
+   </COL>
+  </ROW>
+ </RESULTSET>
+    </FMPXMLRESULT>

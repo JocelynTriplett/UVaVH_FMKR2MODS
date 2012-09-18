@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:date="java:java.util.Date"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+   <titleInfo>
+      <title>Dr. E. Cato Drash and the Chest Surgery Team</title>
+   </titleInfo>
+   <name authority="" type="">
+      <namePart/>
+      <role>
+         <roleTerm type="text" authority="marcrelator">photographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+      </role>
+   </name>
+   <typeOfResource collection="yes">still image</typeOfResource>
+   <genre authority="aat">black-and-white photographs</genre>
+   <identifier type="legacy" displayLabel="Prints Number">prints20222</identifier>
+   <identifier type="accessionNumber">RG-30/1/10.011</identifier>
+   <originInfo>
+      <place>
+         <placeTerm>Charlottesville (Va.)</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1953</dateCreated>
+   </originInfo>
+   <location>
+      <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+   </location>
+   <accessCondition type="restrictionOnAccess" displayLabel="Access to the Collection">RESTRICTED</accessCondition>
+   <accessCondition type="useAndReproduction" displayLabel="Use and Reproduction">Contact Claude Moore Health Sciences Library for Conditions of Use</accessCondition>
+   <abstract>From the Medical Alumni News Letter, May, 1953 article, "Dr. E. Cato
+                    Drash And The University Chest Surgery Team." Caption reads: "The
+                    Chest Surgery Team: Dr. E. Cato Drash, Professor of Surgery, (center) with Miss
+                    Louise Rea, Thoracic Nursing Supervisor, and Dr. George R. Minor, '40,
+                    Assistant Professor of Surgery and Director of the Cardiac Catheterization
+                    Laboratory." The article reads (in part): "Virginians, intent upon
+                    eradicating pulmonary tuberculosis from their State, are studying the history of
+                    past attacks on the disease, and discovering that the surgical battle has been
+                    waged almost singlehandedly by Dr. E. Cato Drash and the Chest Surgery Team he
+                    has organized at the University of Virginia. "Over 80 per cent of all the
+                    State's candidates for thoracic surgery are treated at the University
+                    Hospital. A comparable number of tubercular patients are treated in the
+                    hospital's pheumothorax clinic or on surgical consultation visits to the
+                    State Sanatoria. All of this was done by two surgeons assisted by a thoracic
+                    nursing supervisor, plus one resident and two rotating assistant
+                    residents...."</abstract>
+   <physicalDescription>
+      <form authority="aat">black-and-white photographs</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+      <note displayLabel="Staff Note">Original Negative Present</note>
+      <note displayLabel="Copy Negative"/>
+   </physicalDescription>
+   <note type="admin">Negative included in folder</note>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="naf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="naf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Faculty</topic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="naf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Students</topic>
+   </subject>
+   <relatedItem type="series" displayLabel="Part of">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="series" displayLabel="Appears in">
+      <titleInfo>
+         <title>UVa Medical Alumni News Letter</title>
+      </titleInfo>
+      <part>
+         <detail type="volume">
+            <number>May 1953</number>
+         </detail>
+         <detail type="issue">
+            <number/>
+         </detail>
+      </part>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <recordOrigin>Created programmatically by Digital Curation Services.</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-08-15T19:06:29.772Z</recordCreationDate>
+   </recordInfo>
+</mods>

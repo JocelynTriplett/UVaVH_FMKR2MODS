@@ -1,0 +1,4506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FMPXMLRESULT xmlns="http://www.filemaker.com/fmpxmlresult">
+    <ERRORCODE>0</ERRORCODE>
+    <PRODUCT BUILD="11/22/2002" NAME="FileMaker Pro" VERSION="6.0v4"/>
+    <DATABASE DATEFORMAT="M/d/yyyy" LAYOUT="main" NAME="" RECORDS="16161" TIMEFORMAT="h:mm:ss a"/>
+    <METADATA>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Acc Num" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="admin info" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Comments" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Copy Negative" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="creation date" TYPE="DATE"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Date" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Format" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Genre" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="id" TYPE="NUMBER"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Image Filename" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="issue" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Keyword" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Mod date" TYPE="DATE"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Mod time" TYPE="TIME"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Negyesno" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Photographer" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="publication" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="restrictions" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Source" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="time " TYPE="TIME"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Title" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="volume" TYPE="TEXT"/>
+    </METADATA>
+    <RESULTSET FOUND="16161">
+        <ROW MODID="9" RECORDID="33552">
+            <COL>
+                <DATA>MSS 9989</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Original work by D'Avignon is a lithograph after a photograph by Mathew
+                    Brady</DATA>
+            </COL>
+            <COL>
+                <DATA>Neg 4x5 1399A</DATA>
+            </COL>
+            <COL>
+                <DATA>10/12/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA>fac-simile</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty/Student portrait People</DATA>
+            </COL>
+            <COL>
+                <DATA>864</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10000</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Judah P. Benjamin D'Avignon Original work by D'Avignon is a lithograph after a
+                    photograph by Mathew Brady fac-simile </DATA>
+            </COL>
+            <COL>
+                <DATA>9/21/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:31:05 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Yes</DATA>
+            </COL>
+            <COL>
+                <DATA>D'Avignon</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>2:04:51 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Judah P. Benjamin</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="7" RECORDID="33553">
+            <COL>
+                <DATA>MSS 9989</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>The image is a recently made copy of the original photograph.</DATA>
+            </COL>
+            <COL>
+                <DATA>Neg 4x5 1399G</DATA>
+            </COL>
+            <COL>
+                <DATA>10/12/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>c. 1860</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait UVa Faculty/Student People</DATA>
+            </COL>
+            <COL>
+                <DATA>865</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10001</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Judah P. Benjamin unknown The image is a recently made copy of the original
+                    photograph. b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>9/21/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:14:49 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Yes</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>3:27:44 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Judah P. Benjamin</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="5" RECORDID="33555">
+            <COL>
+                <DATA>MSS 9989</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>The photograph reproduces the original carte-de-visite.</DATA>
+            </COL>
+            <COL>
+                <DATA>Neg 4x5 1399F</DATA>
+            </COL>
+            <COL>
+                <DATA>10/12/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA>fac-simile</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>867</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Judah P. Benjamin as Barrister in England J. Hubbard &amp; Co. (Oxford) The
+                    photograph reproduces the original carte-de-visite. fac-simile </DATA>
+            </COL>
+            <COL>
+                <DATA>9/21/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:31:05 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Yes</DATA>
+            </COL>
+            <COL>
+                <DATA>J. Hubbard &amp; Co. (Oxford)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>3:32:39 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Judah P. Benjamin as Barrister in England</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="33557">
+            <COL>
+                <DATA>RG-21/28.941.2</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Left to right: Weldon Cooper, University Rector William L. Zimmer III, Charles
+                    N. Gaylord, C. Julian Bishko, E. Roger Boyle, Roy Land, University President
+                    Frank L. Hereford Jr., Paul T. David, Jacques J. Rappaport, William R. Sandusky,
+                    Catherine Russell, G. Slaughter Fitzhugh</DATA>
+            </COL>
+            <COL>
+                <DATA>4x5-1239-H</DATA>
+            </COL>
+            <COL>
+                <DATA>10/12/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>869</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10003</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Faculty group photo unknown Left to right: Weldon Cooper, University Rector
+                    William L. Zimmer III, Charles N. Gaylord, C. Julian Bishko, E. Roger Boyle, Roy
+                    Land, University President Frank L. Hereford Jr., Paul T. David, Jacques J.
+                    Rappaport, William R. Sandusky, Catherine Russell, G. Slaughter Fitzhugh b&amp;w
+                    photo </DATA>
+            </COL>
+            <COL>
+                <DATA>9/21/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:31:05 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Yes</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>4:03:03 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Faculty group photo</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="4" RECORDID="33558">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Sepia-toned, the photograph is a composite of fourteen separate portraits.
+                    Front row (left-to-right): S.F. Chancellor, John Staige Davis. Second row: John
+                    B. Minor, William H. McGuffey, S. Southall. Third row: M. Schele DeVere, James
+                    L. Cabell, Henry Howard, Socrates Maupin. Fourth row: Dr. Peters, George F.
+                    Holmes, Dr. Venable. Back row: Francis H. Smith, Basil L. Gildersleeve. Donated
+                    by Professor William H. White (May 30, 1955)</DATA>
+            </COL>
+            <COL>
+                <DATA>4x5-1239-F</DATA>
+            </COL>
+            <COL>
+                <DATA>10/12/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>1868</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>870</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10004</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty unknown Sepia-toned, the photograph is a composite of fourteen
+                    separate portraits. Front row (left-to-right): S.F. Chancellor, John Staige
+                    Davis. Second row: John B. Minor, William H. McGuffey, S. Southall. Third row:
+                    M. Schele DeVere, James L. Cabell, Henry Howard, Socrates Maupin. Fourth row:
+                    Dr. Peters, George F. Holmes, Dr. Venable. Back row: Francis H. Smith, Basil L.
+                    Gildersleeve. Donated by Professor William H. White (May 30, 1955) b&amp;w photo
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>9/21/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:14:50 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Yes</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>4:10:34 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="4" RECORDID="33559">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Albumen carte-de-visite. Front row, left to right: S.F. Chancellor, John
+                    Staige Davis. Second row: John B. Minor, William H. McGuffey, S. Southall. Third
+                    row: M. Schele DeVere, James L. Cabell, Henry Howard, Socrates Maupin. Fourth
+                    row: Dr. Peters, George F. Holmes, Dr. Venable. Back row: Francis H. Smith,
+                    Basil L. Gildersleeve.</DATA>
+            </COL>
+            <COL>
+                <DATA>4x5-1239-F</DATA>
+            </COL>
+            <COL>
+                <DATA>10/12/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>1866-67</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>871</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10005</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty J.D. Merritt (Charlottesville) Albumen carte-de-visite. Front row,
+                    left to right: S.F. Chancellor, John Staige Davis. Second row: John B. Minor,
+                    William H. McGuffey, S. Southall. Third row: M. Schele DeVere, James L. Cabell,
+                    Henry Howard, Socrates Maupin. Fourth row: Dr. Peters, George F. Holmes, Dr.
+                    Venable. Back row: Francis H. Smith, Basil L. Gildersleeve. b&amp;w photo
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>4/18/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>12:51:32 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Yes</DATA>
+            </COL>
+            <COL>
+                <DATA>J.D. Merritt (Charlottesville)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>4:21:47 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="5" RECORDID="33560">
+            <COL>
+                <DATA>RG-30/1/6.962</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>The photograph is a faded, sepia-toned cabinet photo.</DATA>
+            </COL>
+            <COL>
+                <DATA>4x5-1905</DATA>
+            </COL>
+            <COL>
+                <DATA>10/12/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>1872</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>872</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10006</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty unknown The photograph is a faded, sepia-toned cabinet photo.
+                    b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>9/21/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:14:50 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Yes</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>4:29:38 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="4" RECORDID="33561">
+            <COL>
+                <DATA>RG-30/1/6.962</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Reproduces the original cabinet photo (prints10006).</DATA>
+            </COL>
+            <COL>
+                <DATA>4x5-1905</DATA>
+            </COL>
+            <COL>
+                <DATA>10/12/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>orig. 1872</DATA>
+            </COL>
+            <COL>
+                <DATA>fac-simile</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>873</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10007</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty unknown Reproduces the original cabinet photo (prints10006).
+                    fac-simile </DATA>
+            </COL>
+            <COL>
+                <DATA>9/21/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:14:50 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Yes</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>4:33:59 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="9" RECORDID="33563">
+            <COL>
+                <DATA>RG-30/1/6.961</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Albumen carte-de-visite containing eighteen miniature portraits of faculty and
+                    a miniature reproduction of Bohn's 1856 print of the Rotunda and Lawn from the
+                    west.</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10/12/2001</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>875</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10008</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty Wm. Roads Albumen carte-de-visite containing eighteen miniature
+                    portraits of faculty and a miniature reproduction of Bohn's 1856 print of the
+                    Rotunda and Lawn from the west. b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>2/24/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>4:49:29 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>No</DATA>
+            </COL>
+            <COL>
+                <DATA>Wm. Roads</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>4:44:13 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="8" RECORDID="33564">
+            <COL>
+                <DATA>RG-30/1/1.891</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Photograph is autographed by University Presidents and State Governors, left
+                    to right: Frank Talbott, Edgar F. Shannon Jr., J. Lindsay Almond, John S.
+                    Battle, Colgate W. Darden Jr.</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10/12/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty/Student portrait portref</DATA>
+            </COL>
+            <COL>
+                <DATA>876</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10009</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Administrative faculty group Rip Payne Photos (Charlottesville) Photograph is
+                    autographed by University Presidents and State Governors, left to right: Frank
+                    Talbott, Edgar F. Shannon Jr., J. Lindsay Almond, John S. Battle, Colgate W.
+                    Darden Jr. b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>9/21/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:31:06 AM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Rip Payne Photos (Charlottesville)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>4:54:29 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Administrative faculty group</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="2" RECORDID="33566">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Albumen carte-de-visite containing fifteen miniature portraits and an image of
+                    the Rotunda.</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10/15/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>1874-75</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>878</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10010</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty A. F. Smith's (Charlottesville) Albumen carte-de-visite containing
+                    fifteen miniature portraits and an image of the Rotunda. b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>2/24/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>4:49:29 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>A. F. Smith's (Charlottesville)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>1:10:16 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="4" RECORDID="33567">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Unidentified male. Photograph is mounted on black cardboard.</DATA>
+            </COL>
+            <COL>
+                <DATA>4x5-927-c</DATA>
+            </COL>
+            <COL>
+                <DATA>10/15/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>879</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10011</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Faculty member Rhodes &amp; Carter (Charlottesville) Unidentified male.
+                    Photograph is mounted on black cardboard. b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>9/21/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:31:06 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Yes</DATA>
+            </COL>
+            <COL>
+                <DATA>Rhodes &amp; Carter (Charlottesville)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>1:14:35 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Faculty member</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="7" RECORDID="33568">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>McGuffey School written on back.</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10/15/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown </DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>880</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10012</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Dean Charles G. Maphis and unidentified ladies unknown McGuffey School written
+                    on back. b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>9/21/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:31:06 AM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>1:25:17 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Dean Charles G. Maphis and unidentified ladies</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="4" RECORDID="33569">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10/15/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA>halftone</DATA>
+            </COL>
+            <COL>
+                <DATA>Misc</DATA>
+            </COL>
+            <COL>
+                <DATA>881</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10013</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Rotunda unknown halftone </DATA>
+            </COL>
+            <COL>
+                <DATA>9/21/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:31:06 AM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>1:44:50 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Rotunda</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="5" RECORDID="33570">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10/15/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA>halftone</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>882</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10014</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>University President Edwin A. Alderman unknown halftone </DATA>
+            </COL>
+            <COL>
+                <DATA>9/21/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:31:06 AM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>1:50:27 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>University President Edwin A. Alderman</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="33572">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>The group contains, top row: Taylor, Winston, Perkinson, F.P. Dunnington,
+                    Garnett, Fauntleroy, Noah K. Davis, W.M. Thornton, Wheeler, C.S. Venable,
+                    Leavenworth, Ormond, Stone, and, bottom row: F.H. Smith, S.V. Southall, W.E.
+                    Peters, J.S. Davis, J.F. Harrison, J. L. Cabell, J.B. Minor, J.M.[?] Mallett,
+                    G.F. Holmes, and W. Fontaine. Folder contains a duplicate.</DATA>
+            </COL>
+            <COL>
+                <DATA>4x5-1239-D</DATA>
+            </COL>
+            <COL>
+                <DATA>10/15/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>1882-84</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>884</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10015</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty unknown The group contains, top row: Taylor, Winston, Perkinson,
+                    F.P. Dunnington, Garnett, Fauntleroy, Noah K. Davis, W.M. Thornton, Wheeler,
+                    C.S. Venable, Leavenworth, Ormond, Stone, and, bottom row: F.H. Smith, S.V.
+                    Southall, W.E. Peters, J.S. Davis, J.F. Harrison, J. L. Cabell, J.B. Minor,
+                    J.M.[?] Mallett, G.F. Holmes, and W. Fontaine. Folder contains a duplicate.
+                    b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>9/21/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:14:51 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Yes</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>2:05:57 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="33573">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Meeting concerned plans to help entering students better bridge the gap
+                    between high school, prep school, and the University. In the group are, left to
+                    right, Lucius Mallett; Norton Pritchett, Director of Athletics; Richard R.
+                    Fletcher, Assistant Director of Admissions; George W. Speicer; Raymond Bice; and
+                    Lewis M. Hammond, committee chairman. </DATA>
+            </COL>
+            <COL>
+                <DATA>4x5-1239-G</DATA>
+            </COL>
+            <COL>
+                <DATA>10/15/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portref UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>885</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10017</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty committee meeting Ralph Thompson (for UVa) Meeting concerned plans
+                    to help entering students better bridge the gap between high school, prep
+                    school, and the University. In the group are, left to right, Lucius Mallett;
+                    Norton Pritchett, Director of Athletics; Richard R. Fletcher, Assistant Director
+                    of Admissions; George W. Speicer; Raymond Bice; and Lewis M. Hammond, committee
+                    chairman. b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>9/21/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:31:06 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Yes</DATA>
+            </COL>
+            <COL>
+                <DATA>Ralph Thompson (for UVa)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>2:08:15 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty committee meeting</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="4" RECORDID="33574">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Unidentified male. The rounded photograph is mounted on heavy
+                    cardboard.</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10/15/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>June 1900</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait holsinger UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>886</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10018</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Faculty member Rufus Holsinger (Charlottesville) Unidentified male. The
+                    rounded photograph is mounted on heavy cardboard. b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>4/18/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>12:57:35 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Rufus Holsinger (Charlottesville)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>2:16:10 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Faculty member</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="4" RECORDID="33575">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4x5-1239-G (detail)</DATA>
+            </COL>
+            <COL>
+                <DATA>10/15/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portref UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>887</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10019</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Raymond Bice unknown b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>9/21/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:31:06 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Yes</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>2:23:32 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Raymond Bice</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="4" RECORDID="33576">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Mrs. Maphis stands first on the left. Folder contains a duplicate.</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10/15/2001</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>888</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10020</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Dean Charles G. Maphis, Mrs. Maphis, and two unidentified ladies unknown Mrs.
+                    Maphis stands first on the left. Folder contains a duplicate. b&amp;w photo
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>9/21/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:31:06 AM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>2:25:58 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Dean Charles G. Maphis, Mrs. Maphis, and two unidentified ladies</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="16" RECORDID="36322">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>His Holiness the Dalai Lama and Julian Bond on Lawn</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>7/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>November 1998</DATA>
+            </COL>
+            <COL>
+                <DATA>color photo</DATA>
+            </COL>
+            <COL>
+                <DATA>News</DATA>
+            </COL>
+            <COL>
+                <DATA>3634</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10553</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference Jim Carpenter His Holiness the Dalai Lama and
+                    Julian Bond on Lawn color photo </DATA>
+            </COL>
+            <COL>
+                <DATA>4/20/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:00:59 AM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Jim Carpenter</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact News Services for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>News Services</DATA>
+            </COL>
+            <COL>
+                <DATA>9:11:50 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="7" RECORDID="36323">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>His Holiness the Dalai Lama in Old Cabell Hall</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>7/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>1998</DATA>
+            </COL>
+            <COL>
+                <DATA>color photo</DATA>
+            </COL>
+            <COL>
+                <DATA>News</DATA>
+            </COL>
+            <COL>
+                <DATA>3635</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10554</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference Bill Sublette His Holiness the Dalai Lama in
+                    Old Cabell Hall color photo </DATA>
+            </COL>
+            <COL>
+                <DATA>4/20/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:01:17 AM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Bill Sublette</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>News Services</DATA>
+            </COL>
+            <COL>
+                <DATA>9:13:24 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="36324">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Bobby Muller speaking in Old Cabell Hall; panelists Betty Williams, Oscar
+                    Arias Sanchez, Harn Yawnghwe</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>7/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>1998</DATA>
+            </COL>
+            <COL>
+                <DATA>color photo</DATA>
+            </COL>
+            <COL>
+                <DATA>News</DATA>
+            </COL>
+            <COL>
+                <DATA>3636</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10555</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference Bill Sublette Bobby Muller speaking in Old
+                    Cabell Hall; panelists Betty Williams, Oscar Arias Sanchez, Harn Yawnghwe color
+                    photo </DATA>
+            </COL>
+            <COL>
+                <DATA>2/25/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>10:25:10 AM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Bill Sublette</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>News Services</DATA>
+            </COL>
+            <COL>
+                <DATA>9:16:22 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="5" RECORDID="36325">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Rigoberta Menchu Tum</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>7/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>1998</DATA>
+            </COL>
+            <COL>
+                <DATA>color photo</DATA>
+            </COL>
+            <COL>
+                <DATA>News</DATA>
+            </COL>
+            <COL>
+                <DATA>3637</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10556</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference Jim Carpenter Rigoberta Menchu Tum color photo
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>4/29/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>2:33:52 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Jim Carpenter</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact News Services for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>News Services</DATA>
+            </COL>
+            <COL>
+                <DATA>9:18:12 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="5" RECORDID="36326">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Oscar Arias Sanchez and Julian Bond</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>7/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>November 1998</DATA>
+            </COL>
+            <COL>
+                <DATA>color photo</DATA>
+            </COL>
+            <COL>
+                <DATA>News</DATA>
+            </COL>
+            <COL>
+                <DATA>3638</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10557</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference Jim Carpenter Oscar Arias Sanchez and Julian
+                    Bond color photo </DATA>
+            </COL>
+            <COL>
+                <DATA>4/29/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>2:33:57 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Jim Carpenter</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact News Services for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>News Services</DATA>
+            </COL>
+            <COL>
+                <DATA>9:22:02 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="36327">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Bobby Muller</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>7/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>November 1998</DATA>
+            </COL>
+            <COL>
+                <DATA>color photo</DATA>
+            </COL>
+            <COL>
+                <DATA>News</DATA>
+            </COL>
+            <COL>
+                <DATA>3639</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10558</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference Jim Carpenter Bobby Muller color photo </DATA>
+            </COL>
+            <COL>
+                <DATA>4/29/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>2:34:00 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Jim Carpenter</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact News Services for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>News Services</DATA>
+            </COL>
+            <COL>
+                <DATA>9:23:10 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="8" RECORDID="36328">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>His Holiness the Dalai Lama and Archbishop Desmond Tutu on Lawn</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>7/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>November 1998</DATA>
+            </COL>
+            <COL>
+                <DATA>color photo</DATA>
+            </COL>
+            <COL>
+                <DATA>News</DATA>
+            </COL>
+            <COL>
+                <DATA>3640</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10559</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference Jim Carpenter His Holiness the Dalai Lama and
+                    Archbishop Desmond Tutu on Lawn color photo </DATA>
+            </COL>
+            <COL>
+                <DATA>4/20/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:01:55 AM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Jim Carpenter</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact News Services for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>News Services</DATA>
+            </COL>
+            <COL>
+                <DATA>9:25:00 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="7" RECORDID="36329">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Jose Ramos-Horta and Julian Bond</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>7/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>November 1998</DATA>
+            </COL>
+            <COL>
+                <DATA>color photo</DATA>
+            </COL>
+            <COL>
+                <DATA>News</DATA>
+            </COL>
+            <COL>
+                <DATA>3641</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10560</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference Jim Carpenter Jose Ramos-Horta and Julian Bond
+                    color photo </DATA>
+            </COL>
+            <COL>
+                <DATA>4/29/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>2:34:15 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Jim Carpenter</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact News Services for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>News Services</DATA>
+            </COL>
+            <COL>
+                <DATA>9:26:26 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="7" RECORDID="36330">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Archbishop Desmond Tutu</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>7/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>November 1998</DATA>
+            </COL>
+            <COL>
+                <DATA>color photo</DATA>
+            </COL>
+            <COL>
+                <DATA>News</DATA>
+            </COL>
+            <COL>
+                <DATA>3642</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10561</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference Jim Carpenter Archbishop Desmond Tutu color
+                    photo </DATA>
+            </COL>
+            <COL>
+                <DATA>4/29/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>2:39:03 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Jim Carpenter</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact News Services for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>News Services</DATA>
+            </COL>
+            <COL>
+                <DATA>9:33:51 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="36331">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Aung San Suu Kyi represented by Harn Yawnghwe </DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>7/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>November 1998</DATA>
+            </COL>
+            <COL>
+                <DATA>color photo</DATA>
+            </COL>
+            <COL>
+                <DATA>News</DATA>
+            </COL>
+            <COL>
+                <DATA>3643</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10562</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference Jim Carpenter Aung San Suu Kyi represented by
+                    Harn Yawnghwe color photo </DATA>
+            </COL>
+            <COL>
+                <DATA>4/29/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>2:35:20 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Jim Carpenter</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact News Services for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>News Services</DATA>
+            </COL>
+            <COL>
+                <DATA>9:35:49 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="36332">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Jody Williams</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>7/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>November 1998</DATA>
+            </COL>
+            <COL>
+                <DATA>color photo</DATA>
+            </COL>
+            <COL>
+                <DATA>News</DATA>
+            </COL>
+            <COL>
+                <DATA>3644</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10563</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference Jim Carpenter Jody Williams color photo
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>4/29/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>2:35:21 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Jim Carpenter</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact News Services for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>News Services</DATA>
+            </COL>
+            <COL>
+                <DATA>9:36:54 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="5" RECORDID="36333">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Jose Ramos-Horta</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>7/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>November 1998</DATA>
+            </COL>
+            <COL>
+                <DATA>color photo</DATA>
+            </COL>
+            <COL>
+                <DATA>News</DATA>
+            </COL>
+            <COL>
+                <DATA>3645</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10564</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference Jim Carpenter Jose Ramos-Horta color photo
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>4/29/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>2:35:22 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Jim Carpenter</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact News Services for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>News Services</DATA>
+            </COL>
+            <COL>
+                <DATA>9:38:19 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="36334">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Rigoberta Menchu Tum</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>7/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>November 1998</DATA>
+            </COL>
+            <COL>
+                <DATA>color photo</DATA>
+            </COL>
+            <COL>
+                <DATA>News</DATA>
+            </COL>
+            <COL>
+                <DATA>3646</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10565</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference Tom Cogill Rigoberta Menchu Tum color photo
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>4/29/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>2:35:22 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Tom Cogill</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact News Services for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>News Services</DATA>
+            </COL>
+            <COL>
+                <DATA>9:39:54 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="5" RECORDID="36335">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Rigoberta Menchu Tum speaking. Oscar Arias Sanchez to right.</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>7/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>November 1998</DATA>
+            </COL>
+            <COL>
+                <DATA>color photo</DATA>
+            </COL>
+            <COL>
+                <DATA>News</DATA>
+            </COL>
+            <COL>
+                <DATA>3647</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10566</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference Bill Sublette Rigoberta Menchu Tum speaking.
+                    Oscar Arias Sanchez to right. color photo </DATA>
+            </COL>
+            <COL>
+                <DATA>4/20/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>10:02:53 AM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Bill Sublette</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>News Services</DATA>
+            </COL>
+            <COL>
+                <DATA>9:40:58 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="5" RECORDID="36336">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>7/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>November 1998</DATA>
+            </COL>
+            <COL>
+                <DATA>color photo</DATA>
+            </COL>
+            <COL>
+                <DATA>News</DATA>
+            </COL>
+            <COL>
+                <DATA>3648</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10567</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference Jim Carpenter color photo </DATA>
+            </COL>
+            <COL>
+                <DATA>4/29/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>2:35:26 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Jim Carpenter</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact News Services for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>News Services</DATA>
+            </COL>
+            <COL>
+                <DATA>9:42:29 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="36337">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Archbishop Desmond Tutu</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>7/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>November 1998</DATA>
+            </COL>
+            <COL>
+                <DATA>color photo</DATA>
+            </COL>
+            <COL>
+                <DATA>News</DATA>
+            </COL>
+            <COL>
+                <DATA>3649</DATA>
+            </COL>
+            <COL>
+                <DATA>prints10568</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference Jim Carpenter Archbishop Desmond Tutu color
+                    photo </DATA>
+            </COL>
+            <COL>
+                <DATA>4/29/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>2:35:27 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Jim Carpenter</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact News Services for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>News Services</DATA>
+            </COL>
+            <COL>
+                <DATA>9:43:32 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Nobel Laureate Peace Conference</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+
+
+
+        <ROW MODID="0" RECORDID="45195">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Original document in HSL vault, Negative included in folder</DATA>
+            </COL>
+            <COL>
+                <DATA>August 1872, Photograph of the original document</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/2/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>August 1872</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>10964</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20100</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Walter Reed's Brooklyn City Hospital Certificate August 1872, Photograph of
+                    the original document b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>10/28/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>4:08:25 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>14:44:54</DATA>
+            </COL>
+            <COL>
+                <DATA>Walter Reed's Brooklyn City Hospital Certificate</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="0" RECORDID="45196">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Original document in HSL vault, Negative included in folder</DATA>
+            </COL>
+            <COL>
+                <DATA>January 1871, Photograph of original document</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/2/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>January 1871</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>10965</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20101</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Walter Reed's New York Nursery Hospital Certificate January 1871, Photograph
+                    of original document b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>10/28/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>4:08:25 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>14:51:27</DATA>
+            </COL>
+            <COL>
+                <DATA>Walter Reed's New York Nursery Hospital Certificate</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="0" RECORDID="45197">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Negative included in folder</DATA>
+            </COL>
+            <COL>
+                <DATA>Walter Reed, 1900</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/2/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>1900</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10966</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20102</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Camp Lazear (near Quemados, Cuba) Walter Reed, 1900 b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>10/28/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>4:08:25 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>15:39:16</DATA>
+            </COL>
+            <COL>
+                <DATA>Camp Lazear (near Quemados, Cuba)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="0" RECORDID="45198">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Negative included in folder</DATA>
+            </COL>
+            <COL>
+                <DATA>Walter Reed, 1900</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/2/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>1900</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10967</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20103</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Camp Lazear (near Quemados, Cuba) Walter Reed, 1900 b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>10/28/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>4:08:25 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>15:41:49</DATA>
+            </COL>
+            <COL>
+                <DATA>Camp Lazear (near Quemados, Cuba)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="1" RECORDID="45199">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Negative and duplicate included in folder, Photo was used in the
+                    Otolaryngology exhibit, July-Aug. 1996</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Medical School, School of Medicine, Class of 1920, 1st resident in
+                    Otolaryngology at UVa</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/2/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>1920</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>10968</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20104</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Henry Grant Preston UVa Medical School, School of Medicine, Class of 1920, 1st
+                    resident in Otolaryngology at UVa b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>5/6/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>2:31:55 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>15:43:08</DATA>
+            </COL>
+            <COL>
+                <DATA>Henry Grant Preston</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="1" RECORDID="45200">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Negative and duplicate included in folder, Photo was used in the
+                    Otolaryngology exhibit, July-Aug. 1996</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Medical School, School of Medicine, 1920, Instructor in Ear, Nose, and
+                    Throat 1922-1926, Class of 1920</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>1920</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>10969</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20105</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Frank McCutchan UVa Medical School, School of Medicine, 1920, Instructor in
+                    Ear, Nose, and Throat 1922-1926, Class of 1920 b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>5/6/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>2:31:57 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>14:23:42</DATA>
+            </COL>
+            <COL>
+                <DATA>Frank McCutchan</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="1" RECORDID="45201">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Negative included in photo</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Medical School, School of Medicine, 1865</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>1865</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>10970</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20106</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Robley Dunglison UVa Medical School, School of Medicine, 1865 b&amp;w photo
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>5/6/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>2:32:00 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>14:28:35</DATA>
+            </COL>
+            <COL>
+                <DATA>Robley Dunglison</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="1" RECORDID="45202">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Negative included in folder, Original in Box 13</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Medical School, School of Medicine, 1930</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>1930</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>10971</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20107</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Paul Barringer UVa Medical School, School of Medicine, 1930 b&amp;w photo
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>5/6/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>2:32:03 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>14:31:02</DATA>
+            </COL>
+            <COL>
+                <DATA>Paul Barringer</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="1" RECORDID="45203">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Negative included in folder, Original framed photo in Frost Collection</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Medical School, School of Medicine, 1935</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>1935</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>10972</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20108</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Wade Hampton Frost UVa Medical School, School of Medicine, 1935 b&amp;w photo
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>5/6/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>2:32:05 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>14:32:40</DATA>
+            </COL>
+            <COL>
+                <DATA>Wade Hampton Frost</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="1" RECORDID="45204">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Photo was inserted in Dunglison's "General Therapeutics", 1957 which was
+                    donated by J.S. Davis, On back of photo, "John Staige Davis, University of VA,
+                    Virginia"</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Medical School, School of Medicine, 1865</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>1865</DATA>
+            </COL>
+            <COL>
+                <DATA>albumen</DATA>
+            </COL>
+            <COL>
+                <DATA>UVa Faculty/Student</DATA>
+            </COL>
+            <COL>
+                <DATA>10973</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20109</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>John Staige Davis (1822-1885) UVa Medical School, School of Medicine, 1865
+                    albumen </DATA>
+            </COL>
+            <COL>
+                <DATA>5/6/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>2:32:09 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>14:34:33</DATA>
+            </COL>
+            <COL>
+                <DATA>John Staige Davis (1822-1885)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="1" RECORDID="45205">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Hurdler in Lambeth Field</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>gelatin silver print</DATA>
+            </COL>
+            <COL>
+                <DATA>Athletics</DATA>
+            </COL>
+            <COL>
+                <DATA>10974</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20110</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Track Athlete Hurdler in Lambeth Field gelatin silver print </DATA>
+            </COL>
+            <COL>
+                <DATA>5/6/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>2:32:41 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>14:47:16</DATA>
+            </COL>
+            <COL>
+                <DATA>Track Athlete</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="1" RECORDID="45206">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Todd [?], Hurdles</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>gelatin silver print</DATA>
+            </COL>
+            <COL>
+                <DATA>Athletics</DATA>
+            </COL>
+            <COL>
+                <DATA>10975</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20111</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Track Athlete Todd [?], Hurdles gelatin silver print </DATA>
+            </COL>
+            <COL>
+                <DATA>5/6/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>2:32:46 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>14:49:41</DATA>
+            </COL>
+            <COL>
+                <DATA>Track Athlete</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="1" RECORDID="45207">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Lambeth Field</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>gelatin silver print</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10976</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20112</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Track Athlete Lambeth Field gelatin silver print </DATA>
+            </COL>
+            <COL>
+                <DATA>5/6/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>2:33:05 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>14:50:44</DATA>
+            </COL>
+            <COL>
+                <DATA>Track Athlete</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="0" RECORDID="45208">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Founder of AOA is Dr. William W. Root, Note with description of building
+                    included in folder</DATA>
+            </COL>
+            <COL>
+                <DATA>Entrance, Location of building unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>color photo</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10977</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20113</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Alpha Omega Alpha Office Entrance, Location of building unknown color photo
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>10/28/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>4:08:25 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>14:52:06</DATA>
+            </COL>
+            <COL>
+                <DATA>Alpha Omega Alpha Office</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="0" RECORDID="45209">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Note with description of building included in prints20113, Founder of AOA is
+                    Dr. William Root</DATA>
+            </COL>
+            <COL>
+                <DATA>Main building is a U.S. post office, Side entrance is the Alpha Omega Alpha
+                    Office, Location of building is unknown, </DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>color photo</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10978</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20114</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Alpha Omega Alpha Office Main building is a U.S. post office, Side entrance is
+                    the Alpha Omega Alpha Office, Location of building is unknown, color photo
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>10/28/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>4:08:25 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>14:54:39</DATA>
+            </COL>
+            <COL>
+                <DATA>Alpha Omega Alpha Office</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="1" RECORDID="45210">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Glass negative, b&amp;w negative included in folder</DATA>
+            </COL>
+            <COL>
+                <DATA>Dr. William W. Root founder of Alpha Omega Alpha, 1910</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>1910</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w negative</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10979</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20115</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Unidentified house Dr. William W. Root founder of Alpha Omega Alpha, 1910
+                    b&amp;w negative </DATA>
+            </COL>
+            <COL>
+                <DATA>5/6/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>2:34:46 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>15:00:20</DATA>
+            </COL>
+            <COL>
+                <DATA>Unidentified house</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="1" RECORDID="45211">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Glass negative, 2 b&amp;w negatives included in folder</DATA>
+            </COL>
+            <COL>
+                <DATA>1910, Founder of Alpha Omega Alpha</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>1910</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w negative</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10980</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20116</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>William W. Root 1910, Founder of Alpha Omega Alpha b&amp;w negative </DATA>
+            </COL>
+            <COL>
+                <DATA>5/6/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>2:34:52 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>15:04:02</DATA>
+            </COL>
+            <COL>
+                <DATA>William W. Root</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="1" RECORDID="45212">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Founder of Alpha Omega Alpha, William W. Root (1867-1932), Anna Conant Bronson
+                    (1865-1947)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w negative</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10981</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20117</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Headstone of William W. Root and his wife Anna Conant Bronson Founder of Alpha
+                    Omega Alpha, William W. Root (1867-1932), Anna Conant Bronson (1865-1947)
+                    b&amp;w negative </DATA>
+            </COL>
+            <COL>
+                <DATA>5/6/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>2:35:14 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>15:12:24</DATA>
+            </COL>
+            <COL>
+                <DATA>Headstone of William W. Root and his wife Anna Conant Bronson</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="1" RECORDID="45213">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Founder of Alpha Omega Alpha</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w negative</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10982</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20118</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>William W. Root Founder of Alpha Omega Alpha b&amp;w negative </DATA>
+            </COL>
+            <COL>
+                <DATA>5/6/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>2:35:29 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>15:15:07</DATA>
+            </COL>
+            <COL>
+                <DATA>William W. Root</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="1" RECORDID="45214">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Founder of Alpha Omega Alpha, William W. Root (1867-1932), Anna Conant Bronson
+                    (1865-1947)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w negative</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10983</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20119</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Headstone of William W. Root and his wife Anna Conant Bronson Founder of Alpha
+                    Omega Alpha, William W. Root (1867-1932), Anna Conant Bronson (1865-1947)
+                    b&amp;w negative </DATA>
+            </COL>
+            <COL>
+                <DATA>5/6/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>2:36:08 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>15:16:34</DATA>
+            </COL>
+            <COL>
+                <DATA>Headstone of William W. Root and his wife Anna Conant Bronson</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="1" RECORDID="45215">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Duplicate in folder</DATA>
+            </COL>
+            <COL>
+                <DATA>Founder of Alpha Omega Alpha, Automobile</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w negative</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10984</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20120</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>William W. Root Founder of Alpha Omega Alpha, Automobile b&amp;w negative
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>5/6/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>2:35:35 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>15:17:27</DATA>
+            </COL>
+            <COL>
+                <DATA>William W. Root</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="0" RECORDID="45216">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Monument located at Rush Medical College, Illinois</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w negative</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10985</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20121</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Monument to Alpha Omega Alpha Monument located at Rush Medical College,
+                    Illinois b&amp;w negative </DATA>
+            </COL>
+            <COL>
+                <DATA>10/28/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>4:08:25 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>15:19:35</DATA>
+            </COL>
+            <COL>
+                <DATA>Monument to Alpha Omega Alpha</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="0" RECORDID="45217">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Monument located at Rush Medical College, Illinois</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w negative</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10986</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20122</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Monument to Alpha Omega Alpha Monument located at Rush Medical College,
+                    Illinois b&amp;w negative </DATA>
+            </COL>
+            <COL>
+                <DATA>10/28/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>4:08:25 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>15:21:23</DATA>
+            </COL>
+            <COL>
+                <DATA>Monument to Alpha Omega Alpha</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="1" RECORDID="45218">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Founder of Alpha Omega Alpha, Dr. William W. Root, left, with unidentified
+                    man</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w negative</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>10987</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20123</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>William W. Root Founder of Alpha Omega Alpha, Dr. William W. Root, left, with
+                    unidentified man b&amp;w negative </DATA>
+            </COL>
+            <COL>
+                <DATA>5/6/2005</DATA>
+            </COL>
+            <COL>
+                <DATA>2:36:57 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>15:22:07</DATA>
+            </COL>
+            <COL>
+                <DATA>William W. Root </DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="0" RECORDID="45219">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>1930, New ward </DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>1930</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>People Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>10988</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20124</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Nurses with patients - UVa Hospital 1930, New ward b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>10/28/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>4:08:25 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>15:23:44</DATA>
+            </COL>
+            <COL>
+                <DATA>Nurses with patients - UVa Hospital</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="0" RECORDID="45220">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Held at Monticello Hotel, Individuals not identified</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/3/2004</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>People Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>10989</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20125</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Oxygen System Installation Reception Held at Monticello Hotel, Individuals not
+                    identified b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>10/28/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>4:08:25 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>15:42:15</DATA>
+            </COL>
+            <COL>
+                <DATA>Oxygen System Installation Reception</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="0" RECORDID="45221">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Held at Monticello Hotel, Individuals not identified</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/4/2004</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>People Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>10990</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20126</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Oxygen System Installation Reception Held at Monticello Hotel, Individuals not
+                    identified b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>10/28/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>4:08:25 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>14:19:13</DATA>
+            </COL>
+            <COL>
+                <DATA>Oxygen System Installation Reception</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="0" RECORDID="45222">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Held at Monticello Hotel, Individuals not identified</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>8/4/2004</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>10991</DATA>
+            </COL>
+            <COL>
+                <DATA>prints20127</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Oxygen System Installation Reception Held at Monticello Hotel, Individuals not
+                    identified b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>10/28/2004</DATA>
+            </COL>
+            <COL>
+                <DATA>4:08:25 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Health Sciences</DATA>
+            </COL>
+            <COL>
+                <DATA>14:22:28</DATA>
+            </COL>
+            <COL>
+                <DATA>Oxygen System Installation Reception</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+    </RESULTSET>
+</FMPXMLRESULT>

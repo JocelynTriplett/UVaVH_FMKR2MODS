@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:date="java:java.util.Date"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+   <titleInfo>
+      <title>William James Rucker</title>
+   </titleInfo>
+   <name authority="" type="">
+      <namePart/>
+      <role>
+         <roleTerm type="text" authority="marcrelator">photographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+      </role>
+   </name>
+   <typeOfResource collection="yes">still image</typeOfResource>
+   <genre authority="aat">black-and-white photographs</genre>
+   <identifier type="legacy" displayLabel="Prints Number">prints20171</identifier>
+   <identifier type="accessionNumber">RG-30/1/10.011</identifier>
+   <originInfo>
+      <place>
+         <placeTerm>Charlottesville (Va.)</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1941</dateCreated>
+   </originInfo>
+   <location>
+      <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+   </location>
+   <accessCondition type="restrictionOnAccess" displayLabel="Access to the Collection">RESTRICTED</accessCondition>
+   <accessCondition type="useAndReproduction" displayLabel="Use and Reproduction">Contact Claude Moore Health Sciences Library for Conditions of Use</accessCondition>
+   <abstract>From the Bulletin of the University of Virginia Medical School and Hospital,
+                    Fall 1941: "In June of this year [1941] Mr. William James Rucker, a
+                    prominent citizen of Charlottesville, donated $50,000 to the University of
+                    Virginia to be used for the purchase and equipment of a home for convalescent
+                    children. "Arrangements were immediately made for the acquisition of Wests
+                    Cairns, a large stone residence located in a nine acre park one mile west of the
+                    city. Built in 1900, this estate was for a number of years the property of the
+                    late Mr. W. R. McElroy. "The William James Rucker Home for Convalescent
+                    Children will be operated by the University Hospital through its Department of
+                    Orthopedics. When completed it will accommodate twety-three children. As an
+                    adjunct to the University Hospital the institution will fill a long-standing
+                    need. Additional contributions for its maintenance have been received from the
+                    State of Virginia, from the University's Graduating Class of 1941, from the
+                    University's Hospital Cirlce and Hospital League, and from private
+                    individuals."</abstract>
+   <physicalDescription>
+      <form authority="aat">black-and-white photographs</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+      <note displayLabel="Staff Note">Original Negative Present</note>
+      <note displayLabel="Copy Negative"/>
+   </physicalDescription>
+   <note type="admin">Negative included in folder. Bulletin of the UVa Medical School and Hospital,
+                    Fall 1941</note>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="naf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="naf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Sports</topic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="naf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Health System</topic>
+   </subject>
+   <relatedItem type="series" displayLabel="Part of">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="series" displayLabel="Appears in">
+      <titleInfo>
+         <title>Bulletin of the UVa Medical School and Hospital, Fall 1941</title>
+      </titleInfo>
+      <part>
+         <detail type="volume">
+            <number>1</number>
+         </detail>
+         <detail type="issue">
+            <number>1</number>
+         </detail>
+      </part>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <recordOrigin>Created programmatically by Digital Curation Services.</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-08-15T19:06:29.728Z</recordCreationDate>
+   </recordInfo>
+</mods>

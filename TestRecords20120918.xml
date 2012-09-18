@@ -1,0 +1,2939 @@
+<FMPXMLRESULT xmlns="http://www.filemaker.com/fmpxmlresult">
+    <ERRORCODE>0</ERRORCODE>
+    <PRODUCT BUILD="11/22/2002" NAME="FileMaker Pro" VERSION="6.0v4"/>
+    <DATABASE DATEFORMAT="M/d/yyyy" LAYOUT="main" NAME="" RECORDS="16889" TIMEFORMAT="h:mm:ss a"/>
+    <METADATA>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Acc Num" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="admin info" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Comments" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Copy Negative" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="creation date" TYPE="DATE"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Date" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Format" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Genre" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="id" TYPE="NUMBER"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Image Filename" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="issue" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Keyword" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Mod date" TYPE="DATE"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Mod time" TYPE="TIME"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Negyesno" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Photographer" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="publication" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="restrictions" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Source" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="time " TYPE="TIME"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Title" TYPE="TEXT"/>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="volume" TYPE="TEXT"/>
+    </METADATA>
+    <RESULTSET FOUND="16889">
+        <ROW MODID="6" RECORDID="35184">
+            <COL>
+                <DATA>MSS 7055</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>in the style of a carte-de-visite </DATA>
+            </COL>
+            <COL>
+                <DATA>4x5-1561</DATA>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>1819</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2496</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05676</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Ludwig van Beethoven photographed by Th. Prümm from the painting by F.S.
+                    Véritable in the style of a carte-de-visite b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>2:37:43 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Yes</DATA>
+            </COL>
+            <COL>
+                <DATA>photographed by Th. Prümm from the painting by F.S. Véritable</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>10:38:34 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Ludwig van Beethoven</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="3" RECORDID="35185">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>color postcard from the Vienna Museum</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>1804</DATA>
+            </COL>
+            <COL>
+                <DATA>halftone</DATA>
+            </COL>
+            <COL>
+                <DATA>portref</DATA>
+            </COL>
+            <COL>
+                <DATA>2497</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05677</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Ludwig van Beethoven Meyer K.G. (Vienna) from the painting by J.W. Mähler
+                    color postcard from the Vienna Museum halftone </DATA>
+            </COL>
+            <COL>
+                <DATA>6/29/2007</DATA>
+            </COL>
+            <COL>
+                <DATA>12:48:12 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Meyer K.G. (Vienna) from the painting by J.W. Mähler</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>10:50:44 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Ludwig van Beethoven</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="8" RECORDID="35186">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>1938-11-01</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait UVa Misc</DATA>
+            </COL>
+            <COL>
+                <DATA>2498</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05678</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Hospital addition b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>11/2/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>11:02:56 AM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>10:54:12 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Hospital addition</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="7" RECORDID="35187">
+            <COL>
+                <DATA>MSS 7055</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>carte-de-visite</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2499</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05679</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>William North Belknap “The Brady National Gallery&quot; (Washington, D.C.)
+                    carte-de-visite b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:09 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>“The Brady National Gallery&quot; (Washington, D.C.)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>10:58:53 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>William North Belknap</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="35188">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>cut from an unidentified source</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>halftone</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2500</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05680</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Alexander Graham Bell unknown cut from an unidentified source halftone </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:09 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>11:01:10 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Alexander Graham Bell</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="9" RECORDID="35189">
+            <COL>
+                <DATA>MSS 9714</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Copyright James T. White &amp; Co.</DATA>
+            </COL>
+            <COL>
+                <DATA>4x5-1829-A</DATA>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>photogravure</DATA>
+            </COL>
+            <COL>
+                <DATA>portref</DATA>
+            </COL>
+            <COL>
+                <DATA>2501</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05681</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Alexander Graham Bell unknown Copyright James T. White &amp; Co. photogravure
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:09 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Yes</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>11:02:59 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Alexander Graham Bell</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="4" RECORDID="35190">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>mounted on heavy, embossed cardboard</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>1904</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2502</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05682</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>J. B. Bell Shartte (Lynchburg, VA) mounted on heavy, embossed cardboard
+                    b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>6/29/2007</DATA>
+            </COL>
+            <COL>
+                <DATA>12:51:49 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Shartte (Lynchburg, VA)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>11:05:55 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>J. B. Bell</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="7" RECORDID="35191">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Union Candidate for President from Harper&apos;s Weekly</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>1860-05-19</DATA>
+            </COL>
+            <COL>
+                <DATA>engraving</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2503</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05683</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>John Bell engraved after a photograph by “Hughes&quot; (Nashville, TN) Union
+                    Candidate for President from Harper&apos;s Weekly engraving </DATA>
+            </COL>
+            <COL>
+                <DATA>11/1/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:23:11 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>engraved after a photograph by “Hughes&quot; (Nashville, TN)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>11:09:26 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>John Bell</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="35193">
+            <COL>
+                <DATA>MSS 7055</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>carte-de-visite</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2505</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05685</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>&quot;Belmont&quot; Gurney &amp; Son (New York) carte-de-visite b&amp;w photo
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:09 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Gurney &amp; Son (New York)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>11:24:30 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>&quot;Belmont&quot;</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="8" RECORDID="35194">
+            <COL>
+                <DATA>MSS 99</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>mezzotint</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait People</DATA>
+            </COL>
+            <COL>
+                <DATA>2506</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05686</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Clarence S. Bement mezzotint by Max Rosenthal from the painting by Albert
+                    Rosenthal mezzotint </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:09 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>mezzotint by Max Rosenthal from the painting by Albert Rosenthal</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>11:26:27 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Clarence S. Bement</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="5" RECORDID="35195">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portref</DATA>
+            </COL>
+            <COL>
+                <DATA>2507</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05687</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Robert C. Benchley Underwood &amp; Underwood Studios (New York) b&amp;w photo
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:09 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Underwood &amp; Underwood Studios (New York)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>11:30:28 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Robert C. Benchley</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="7" RECORDID="35196">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>author of Spanish Bayonet from VQR #502 Contact George H. Doran Co.
+                    Publishing</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portref</DATA>
+            </COL>
+            <COL>
+                <DATA>2508</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05688</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Stephen Vincent Benet unknown owing to damage author of Spanish Bayonet from
+                    VQR #502 Contact George H. Doran Co. Publishing b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>6/20/2012</DATA>
+            </COL>
+            <COL>
+                <DATA>12:11:20 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>unknown owing to damage</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>11:32:26 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Stephen Vincent Benet</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="35197">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4x5-1399-H</DATA>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>photogravure</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2509</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05689</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Judah B. Benjamin unknown photogravure </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:10 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Yes</DATA>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>11:35:48 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Judah B. Benjamin</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="35198">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>probably an eighteenth century print</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>engraving</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2510</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05690</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Henry Bennet, Earl of Arlington engraved by Houbraken probably an eighteenth
+                    century print engraving </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:10 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>engraved by Houbraken</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>11:37:49 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Henry Bennet, Earl of Arlington</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="7" RECORDID="35199">
+            <COL>
+                <DATA>MSS 10213-a</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>1836</DATA>
+            </COL>
+            <COL>
+                <DATA>engraving</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2511</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05691</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Henry Bennet, Earl of Arlington engraved by W.T. Mote after the painting by
+                    Sir Peter Lely engraving </DATA>
+            </COL>
+            <COL>
+                <DATA>6/29/2007</DATA>
+            </COL>
+            <COL>
+                <DATA>12:52:55 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>engraved by W.T. Mote after the painting by Sir Peter Lely</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>11:40:22 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Henry Bennet, Earl of Arlington</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="3" RECORDID="35200">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>from Edmund Lodge, Portraits of Illustrious Personages of Great Britain
+                    (London, 1850)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>1850</DATA>
+            </COL>
+            <COL>
+                <DATA>engraving</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2512</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05692</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Henry Bennet, Earl of Arlington engraved from the painting by Sir Peter Lely
+                    from Edmund Lodge, Portraits of Illustrious Personages of Great Britain (London,
+                    1850) engraving </DATA>
+            </COL>
+            <COL>
+                <DATA>6/29/2007</DATA>
+            </COL>
+            <COL>
+                <DATA>12:53:37 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>engraved from the painting by Sir Peter Lely</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>11:42:42 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Henry Bennet, Earl of Arlington</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="7" RECORDID="35201">
+            <COL>
+                <DATA>MSS 7055</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>carte-de-visite</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2513</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05693</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>James Gordon Bennett unknown carte-de-visite b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:10 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>11:46:39 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>James Gordon Bennett</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="35202">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>white paper and lavender cardboard</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>halftone</DATA>
+            </COL>
+            <COL>
+                <DATA>portref</DATA>
+            </COL>
+            <COL>
+                <DATA>2514</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05694</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Joseph Dexter Bennett unknown white paper and lavender cardboard halftone
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:10 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>11:47:55 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Joseph Dexter Bennett</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="9" RECORDID="35203">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>sixth president of Randolph Macon Collegeetching with aquatint (President
+                    Incumbent)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>aquatint</DATA>
+            </COL>
+            <COL>
+                <DATA>portref</DATA>
+            </COL>
+            <COL>
+                <DATA>2515</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05695</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>William W. Bennett unknown sixth president of Randolph Macon Collegeetching
+                    with aquatint (President Incumbent) aquatint </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:10 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>11:50:49 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>William W. Bennett</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="35204">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portref</DATA>
+            </COL>
+            <COL>
+                <DATA>2516</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05696</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Oliver Earl Benson as a student at the University of Oklahoma unknown b&amp;w
+                    photo </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:10 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>11:54:33 AM</DATA>
+            </COL>
+            <COL>
+                <DATA>Oliver Earl Benson as a student at the University of Oklahoma</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="10" RECORDID="35206">
+            <COL>
+                <DATA>MSS 502</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Property of Macmillan publishing</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/5/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portref People</DATA>
+            </COL>
+            <COL>
+                <DATA>2518</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05203</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Phyllis Bentley, author of Inheritance unknown Property of Macmillan
+                    publishing b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>6/20/2012</DATA>
+            </COL>
+            <COL>
+                <DATA>12:13:36 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>1:25:30 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Phyllis Bentley, author of Inheritance</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="35207">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>photographic reproduction of original photograph</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>ca. 1920</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2519</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05698</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>W. O. Bentley with his 1920 model Bentley sports car unknown photographic
+                    reproduction of original photograph b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>2/16/2012</DATA>
+            </COL>
+            <COL>
+                <DATA>4:20:54 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>1:22:41 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>W. O. Bentley with his 1920 model Bentley sports car</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="5" RECORDID="35208">
+            <COL>
+                <DATA>MSS 8483-c</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>engraved from an unidentified painting</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>1858</DATA>
+            </COL>
+            <COL>
+                <DATA>engraving</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2520</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05699</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Thomas Hart Benton unknown engraved from an unidentified painting engraving
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>6/29/2007</DATA>
+            </COL>
+            <COL>
+                <DATA>12:56:05 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>1:29:49 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Thomas Hart Benton</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="5" RECORDID="35209">
+            <COL>
+                <DATA>MSS 3990</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Concert was the eighth in a series that took place at the Salle Gaveau, 45,
+                    Rue la Beotie, Paris.</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>ca. 1933</DATA>
+            </COL>
+            <COL>
+                <DATA>sketch</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2521</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05700</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Illustrated concert program for “La Serenade&quot; sketch by Christian Berard
+                    Concert was the eighth in a series that took place at the Salle Gaveau, 45, Rue
+                    la Beotie, Paris. sketch </DATA>
+            </COL>
+            <COL>
+                <DATA>2/16/2012</DATA>
+            </COL>
+            <COL>
+                <DATA>4:20:48 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>sketch by Christian Berard</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>1:32:02 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Illustrated concert program for “La Serenade&quot;</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="4" RECORDID="35210">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>1830</DATA>
+            </COL>
+            <COL>
+                <DATA>engraving</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2522</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05701</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>William-Carr Beresford, D.C.L. Viscount Beresford engraved by P.W. Tomkins
+                    after the painting by Sir William Beechey engraving </DATA>
+            </COL>
+            <COL>
+                <DATA>6/29/2007</DATA>
+            </COL>
+            <COL>
+                <DATA>12:56:09 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>engraved by P.W. Tomkins after the painting by Sir William Beechey</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>1:37:14 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>William-Carr Beresford, D.C.L. Viscount Beresford</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="35211">
+            <COL>
+                <DATA>MSS 2901</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>UVa alum</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portref</DATA>
+            </COL>
+            <COL>
+                <DATA>2523</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05702</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Harrison C. Berkeley Kaiden-Keystone Photos UVa alum b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:10 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Kaiden-Keystone Photos</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>1:39:17 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Harrison C. Berkeley</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="7" RECORDID="35212">
+            <COL>
+                <DATA>MSS 8221</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Governor of colonial Virginia, 1768-1770</DATA>
+            </COL>
+            <COL>
+                <DATA>4x5-1145</DATA>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portref</DATA>
+            </COL>
+            <COL>
+                <DATA>2524</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05703</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Norborne Berkeley, Baron de Botetourt photographed by Ralph Thompson from an
+                    unidentified painting Governor of colonial Virginia, 1768-1770 b&amp;w photo
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:11 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Yes</DATA>
+            </COL>
+            <COL>
+                <DATA>photographed by Ralph Thompson from an unidentified painting</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>1:41:49 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Norborne Berkeley, Baron de Botetourt</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="35213">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>picture taken from the Rotunda</DATA>
+            </COL>
+            <COL>
+                <DATA>Neg 4x5 1168</DATA>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portref UVa Misc</DATA>
+            </COL>
+            <COL>
+                <DATA>2525</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05705</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Lawn picture taken from the Rotunda b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:11 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Yes</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>1:50:29 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Lawn</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="4" RECORDID="35214">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>On the reverse of the mounting, details about the picture&apos;s history are
+                    written in ink.</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>ca. 1915</DATA>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portref</DATA>
+            </COL>
+            <COL>
+                <DATA>2526</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05704</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Sir William Berkeley orig. painting by Sir Godfrey Kneller [?] On the reverse
+                    of the mounting, details about the picture&apos;s history are written in ink.
+                    b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>2/16/2012</DATA>
+            </COL>
+            <COL>
+                <DATA>4:20:55 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>orig. painting by Sir Godfrey Kneller [?]</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>1:54:51 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Sir William Berkeley</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="35215">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>publicity photo for The Miracle of Bernadette, by Margaret Gray Blanton
+                    (Prentice-Hall); original photograph found by the author</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portref</DATA>
+            </COL>
+            <COL>
+                <DATA>2527</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05706</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Saint Bernadette unknown publicity photo for The Miracle of Bernadette, by
+                    Margaret Gray Blanton (Prentice-Hall); original photograph found by the author
+                    b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:11 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>2:06:57 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Saint Bernadette</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="35216">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>The original picture was registered by the French National Library circa
+                    1795.</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>engraving</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2528</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05707</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Jean Baptiste Jules Bernadotte engraved by G. Fiesinger after the drawing by
+                    J. Guerin The original picture was registered by the French National Library
+                    circa 1795. engraving </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:11 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>engraved by G. Fiesinger after the drawing by J. Guerin</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>2:14:59 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Jean Baptiste Jules Bernadotte</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="5" RECORDID="35217">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>reproduction of original photograph</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2529</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05708</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Sarah Bernhardt performing stage unknown reproduction of original photograph
+                    b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:11 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>2:24:42 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Sarah Bernhardt performing stage</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="4" RECORDID="35218">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Berry was the president of the International Pressmen and Assistants&apos;
+                    Union.</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portref</DATA>
+            </COL>
+            <COL>
+                <DATA>2530</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05709</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Major George T. Berry with Fred Hulme Underwood &amp; Underwood Studios
+                    (Washington, D.C.) Berry was the president of the International Pressmen and
+                    Assistants&apos; Union. b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:11 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Underwood &amp; Underwood Studios (Washington, D.C.)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>2:26:38 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Major George T. Berry with Fred Hulme</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="7" RECORDID="35219">
+            <COL>
+                <DATA>MSS 9860</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>engraving</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2531</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05710</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Françoise Bertaut, Madame de Motteville engraved by T. Johnson engraving
+                </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:11 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>engraved by T. Johnson</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>2:32:34 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Françoise Bertaut, Madame de Motteville</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="3" RECORDID="35220">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>from Edmund Lodge, Portraits of Illustrious Personages of Great Britain
+                    (London, 1850)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>1850</DATA>
+            </COL>
+            <COL>
+                <DATA>engraving</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2532</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05711</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Montague Bertie, Earl of Lindsey engraved from a painting by Van Dyke from
+                    Edmund Lodge, Portraits of Illustrious Personages of Great Britain (London,
+                    1850) engraving </DATA>
+            </COL>
+            <COL>
+                <DATA>6/29/2007</DATA>
+            </COL>
+            <COL>
+                <DATA>12:57:36 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>engraved from a painting by Van Dyke</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>2:34:49 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Montague Bertie, Earl of Lindsey</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="5" RECORDID="35221">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>from Edmund Lodge, Portraits of Illustrious Personages of Great Britain
+                    (London, 1850)</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>1850</DATA>
+            </COL>
+            <COL>
+                <DATA>engraving</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2533</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05712</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Robert Bertie, Earl of Lindsey engraved after a painting by Van Dyke from
+                    Edmund Lodge, Portraits of Illustrious Personages of Great Britain (London,
+                    1850) engraving </DATA>
+            </COL>
+            <COL>
+                <DATA>6/29/2007</DATA>
+            </COL>
+            <COL>
+                <DATA>12:57:39 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>engraved after a painting by Van Dyke</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>2:37:26 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Robert Bertie, Earl of Lindsey</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="5" RECORDID="35222">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA>1830</DATA>
+            </COL>
+            <COL>
+                <DATA>engraving</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2534</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05713</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Robert Bertie, Earl of Lindsey engraved by H. Robinson after the painting by
+                    Van Dyke engraving </DATA>
+            </COL>
+            <COL>
+                <DATA>6/29/2007</DATA>
+            </COL>
+            <COL>
+                <DATA>12:57:42 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>engraved by H. Robinson after the painting by Van Dyke</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>2:41:20 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Robert Bertie, Earl of Lindsey</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="8" RECORDID="35223">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>lithograph</DATA>
+            </COL>
+            <COL>
+                <DATA>portrait</DATA>
+            </COL>
+            <COL>
+                <DATA>2535</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05890</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Henri Gratien Bertrand lithograph by Belliard [?] after a painting by Paul
+                    Delaroche lithograph </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:11 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>lithograph by Belliard [?] after a painting by Paul Delaroche</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>None</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>2:42:37 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Henri Gratien Bertrand</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="8" RECORDID="35225">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portref</DATA>
+            </COL>
+            <COL>
+                <DATA>2537</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05715</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Edwin Morris Betts H. Zamsky, Charlottesville [?] b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:11 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>H. Zamsky, Charlottesville [?]</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>2:55:15 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Edwin Morris Betts</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="7" RECORDID="35226">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portref</DATA>
+            </COL>
+            <COL>
+                <DATA>2538</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05716</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Edwin Morris Betts unknown b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:12 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>2:56:55 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Edwin Morris Betts</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="6" RECORDID="35227">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>photogravure</DATA>
+            </COL>
+            <COL>
+                <DATA>portref</DATA>
+            </COL>
+            <COL>
+                <DATA>2539</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05717</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Albert J. Beveridge unknown photogravure </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:12 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>2:58:07 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Albert J. Beveridge</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+        <ROW MODID="8" RECORDID="35228">
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>British Minister of labour and National Service, 1940-50</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>4/6/2002</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>b&amp;w photo</DATA>
+            </COL>
+            <COL>
+                <DATA>portref</DATA>
+            </COL>
+            <COL>
+                <DATA>2540</DATA>
+            </COL>
+            <COL>
+                <DATA>prints05718</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Ernest Bevin unknown British Minister of labour and National Service, 1940-50
+                    b&amp;w photo </DATA>
+            </COL>
+            <COL>
+                <DATA>11/3/2011</DATA>
+            </COL>
+            <COL>
+                <DATA>4:40:12 PM</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>unknown</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+            <COL>
+                <DATA>Contact Special Collections for Conditions of Use</DATA>
+            </COL>
+            <COL>
+                <DATA>Special Collections</DATA>
+            </COL>
+            <COL>
+                <DATA>3:00:08 PM</DATA>
+            </COL>
+            <COL>
+                <DATA>Ernest Bevin</DATA>
+            </COL>
+            <COL>
+                <DATA/>
+            </COL>
+        </ROW>
+    </RESULTSET>
+</FMPXMLRESULT>

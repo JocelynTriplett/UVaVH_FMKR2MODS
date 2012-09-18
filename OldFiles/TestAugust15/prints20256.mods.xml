@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:date="java:java.util.Date"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+   <titleInfo>
+      <title>(Left to Right) John F. Harlan, Jr., Mrs. J. C. Respess, Mrs. Gordon N.
+                    Jarman, and Mrs. Theodore Hardeen</title>
+   </titleInfo>
+   <name authority="" type="">
+      <namePart/>
+      <role>
+         <roleTerm type="text" authority="marcrelator">photographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+      </role>
+   </name>
+   <typeOfResource collection="yes">still image</typeOfResource>
+   <genre authority="aat">black-and-white photographs</genre>
+   <identifier type="legacy" displayLabel="Prints Number">prints20256</identifier>
+   <identifier type="accessionNumber">RG-30/1/10.011</identifier>
+   <originInfo>
+      <place>
+         <placeTerm>Charlottesville (Va.)</placeTerm>
+      </place>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1975</dateCreated>
+   </originInfo>
+   <location>
+      <physicalLocation>Historical Collections &amp; Services, Claude Moore Health Sciences Library, Charlottesville, Va.</physicalLocation>
+   </location>
+   <accessCondition type="restrictionOnAccess" displayLabel="Access to the Collection">RESTRICTED</accessCondition>
+   <accessCondition type="useAndReproduction" displayLabel="Use and Reproduction">Contact Claude Moore Health Sciences Library for Conditions of Use</accessCondition>
+   <abstract>From the Draw Sheet, February, 1975 front page: "Hospital Auxiliary
+                    Donates $7500[.] "John F. Harlan, Jr., UVa Hospital Director, accepts a
+                    gift from the Auxiliary which will go to purchase equipment for the emergency
+                    room and the new born intensive care unit at the University of Virginia
+                    Hospital. Making the presentation at the Auxiliary's recent awards coffee
+                    are, left to right, Mr. Harlan, Mrs. J.C. Respess, Awards Chairman; Mrs. Gordon
+                    J. Jarman, Auxiliary President; and Mrs. Theodore Hardeen, Awards Coffee
+                    Chairman. THe presentaiton was in the amount of $7,500.00."</abstract>
+   <physicalDescription>
+      <form authority="aat">black-and-white photographs</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+      <note displayLabel="Staff Note">Original Negative Present</note>
+      <note displayLabel="Copy Negative"/>
+   </physicalDescription>
+   <note type="admin">Negative included in folder</note>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="naf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="naf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Faculty</topic>
+   </subject>
+   <subject authority="lcsh">
+      <name type="corporate" authority="naf">
+         <namePart>University of Virginia</namePart>
+      </name>
+      <topic>Students</topic>
+   </subject>
+   <relatedItem type="series" displayLabel="Part of">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="series" displayLabel="Appears in">
+      <titleInfo>
+         <title>The Draw Sheet, February, 1975</title>
+      </titleInfo>
+      <part>
+         <detail type="volume">
+            <number>Vol. 23</number>
+         </detail>
+         <detail type="issue">
+            <number>No. 2</number>
+         </detail>
+      </part>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <recordOrigin>Created programmatically by Digital Curation Services.</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-08-15T19:06:29.809Z</recordCreationDate>
+   </recordInfo>
+</mods>
