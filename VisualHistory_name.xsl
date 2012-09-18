@@ -55,7 +55,9 @@
                 <xsl:choose>
                     <xsl:when
                         test="document($AuthorizedNames)/ss:Workbook/ss:Worksheet/ss:Table/ss:Row/ss:Cell[1]/ss:Data/text(),$printsNumber">
-                        <xsl:value-of select="document($AuthorizedNames)/ss:Workbook/ss:Worksheet/ss:Table/ss:Row[ss:Cell[1]/ss:Data/text()=$printsNumber]/ss:Cell[3]/ss:Data/text()"/>
+                        <xsl:value-of
+                            select="document($AuthorizedNames)/ss:Workbook/ss:Worksheet/ss:Table/ss:Row[ss:Cell[1]/ss:Data/text()=$printsNumber]/ss:Cell[3]/ss:Data/text()"
+                        />
                     </xsl:when>
                     <xsl:otherwise>
                         <xsl:value-of select="$name"/>
