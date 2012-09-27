@@ -181,12 +181,15 @@
     </xsl:template>
 
     <xsl:template name="publication">
+        <xsl:for-each select="COL[17]/DATA[1]">
+            <xsl:choose>
+            <xsl:when test="./text()">
         <xsl:element name="relatedItem" inherit-namespaces="no" xmlns="http://www.loc.gov/mods/v3">
             <xsl:attribute name="type">series</xsl:attribute>
             <xsl:attribute name="displayLabel">Appears in</xsl:attribute>
             <xsl:element name="titleInfo" inherit-namespaces="no" xmlns="http://www.loc.gov/mods/v3">
                 <xsl:element name="title" inherit-namespaces="no" xmlns="http://www.loc.gov/mods/v3">
-                    <xsl:value-of select="COL[17]/DATA[1]"/>
+                    <xsl:value-of select="."/>
                 </xsl:element>
             </xsl:element>
             <xsl:element name="part">
@@ -204,6 +207,9 @@
                 </xsl:element>
             </xsl:element>
         </xsl:element>
+            </xsl:when>
+            </xsl:choose>
+        </xsl:for-each>
     </xsl:template>
 
     <xsl:template name="recordInfo">
