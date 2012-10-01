@@ -196,15 +196,11 @@
             <xsl:element name="part">
                 <xsl:element name="detail">
                     <xsl:attribute name="type">volume</xsl:attribute>
-                    <xsl:element name="number">
-                        <xsl:value-of select="COL[22]/DATA[1]"/>
-                    </xsl:element>
+                    <xsl:element name="number"><xsl:value-of select="//COL[22]/DATA[1]/text()"/></xsl:element>
                 </xsl:element>
                 <xsl:element name="detail">
                     <xsl:attribute name="type">issue</xsl:attribute>
-                    <xsl:element name="number">
-                        <xsl:value-of select="COL[11]/DATA[1]"/>
-                    </xsl:element>
+                    <xsl:element name="number"><xsl:value-of select='//COL[11]/DATA[1]/text()'/></xsl:element>
                 </xsl:element>
             </xsl:element>
         </xsl:element>
