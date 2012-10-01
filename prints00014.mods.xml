@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:date="java:java.util.Date"
+      xmlns:fn="http://www.w3.org/2005/xpath-functions"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+   <titleInfo>
+      <title>University of Virginia, from the east</title>
+   </titleInfo>
+   <name>
+      <namePart/>
+      <role>
+         <roleTerm type="text" authority="marcrelator">lithographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">ltg</roleTerm>
+      </role>
+   </name>
+   <typeOfResource collection="yes">still image</typeOfResource>
+   <genre authority="aat">lithographs</genre>
+   <identifier type="legacy" displayLabel="Prints Number">prints00014</identifier>
+   <identifier type="accessionNumber">RG-30/1/10.011</identifier>
+   <originInfo>
+      <place>
+         <placeTerm>Charlottesville (Va.)</placeTerm>
+      </place>
+      <dateCreated
+                   encoding="w3cdtf"
+                   keyDate="yes">1849</dateCreated>
+   </originInfo>
+   <location>
+      <physicalLocation>Special Collections, University of Virginia Library, Charlottesville, Va.</physicalLocation>
+   </location>
+   <accessCondition type="restrictionOnAccess" displayLabel="Access to the Collection">RESTRICTED</accessCondition>
+   <accessCondition type="useAndReproduction" displayLabel="Use and Reproduction">This image may be reproduced without additional permission but must be credited © Rector and Visitors of the University of Virginia</accessCondition>
+   <abstract>Publisher's inscription on bottom right, " P. S. Duval's Steam lith. Press.
+     Philad." 5 b&amp;w photographs, 2 positive photostats, 5 negative photostats. Also
+     negative and positive photostats of back of Betts lithograph with notation, "University of
+     Va. 1849, from 'Autograph Album of the University' - 1850. Note Rotunda without North
+     portico. This is one of the most interesting prints since it shows the Rotunda as Jefferson
+     built it."</abstract>
+   <physicalDescription>
+      <form authority="aat">lithographs</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+      <note
+            displayLabel="Staff Note">Original Negative Present</note>
+      <note
+            displayLabel="Copy Negative">Neg 35 73</note>
+   </physicalDescription>
+   <identifier type="LegacyAccessionNumber" displayLabel="Originating Collection">MSS 1453, MSS 7598, Betts Collection #9</identifier>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name
+            type="corporate"
+            authority="naf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <relatedItem type="series" displayLabel="Part of">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <recordOrigin>Created programmatically by Digital Curation Services.</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-09-28T15:51:57.676Z</recordCreationDate>
+   </recordInfo>
+</mods>

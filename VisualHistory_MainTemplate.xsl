@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
-    xpath-default-namespace="http://www.filemaker.com/fmpxmlresult" xmlns:date="java:java.util.Date">
+    xpath-default-namespace="http://www.filemaker.com/fmpxmlresult" xmlns:date="java:java.util.Date"
+    xmlns:fn="http://www.w3.org/2005/xpath-functions">
     <xsl:output byte-order-mark="no" encoding="UTF-8" media-type="text/xml" xml:space="default"
         indent="yes"/>
     <xsl:output method="text"/>

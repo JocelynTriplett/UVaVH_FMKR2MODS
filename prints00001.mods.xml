@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:date="java:java.util.Date"
+      xmlns:fn="http://www.w3.org/2005/xpath-functions"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+   <titleInfo>
+      <title>Rotunda and Lawn, B. Tanner engraving from Boye's Map of Virginia</title>
+   </titleInfo>
+   <name>
+      <namePart/>
+      <role>
+         <roleTerm type="text" authority="marcrelator">photographer</roleTerm>
+         <roleTerm type="code" authority="marcrelator">pht</roleTerm>
+      </role>
+   </name>
+   <typeOfResource collection="yes">still image</typeOfResource>
+   <genre authority="aat">albumen prints</genre>
+   <identifier type="legacy" displayLabel="Prints Number">prints00001</identifier>
+   <identifier type="accessionNumber">RG-30/1/10.011</identifier>
+   <originInfo>
+      <place>
+         <placeTerm>Charlottesville (Va.)</placeTerm>
+      </place>
+      <dateCreated
+                   encoding="w3cdtf"
+                   keyDate="yes">1827</dateCreated>
+   </originInfo>
+   <location>
+      <physicalLocation>Special Collections, University of Virginia Library, Charlottesville, Va.</physicalLocation>
+   </location>
+   <accessCondition type="restrictionOnAccess" displayLabel="Access to the Collection">RESTRICTED</accessCondition>
+   <accessCondition type="useAndReproduction" displayLabel="Use and Reproduction">This image may be reproduced without additional permission but must be credited © Rector and Visitors of the University of Virginia</accessCondition>
+   <abstract>11 copies of print in folder</abstract>
+   <physicalDescription>
+      <form authority="aat">albumen prints</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <internetMediaType>image/tiff</internetMediaType>
+      <note
+            displayLabel="Staff Note">Original Negative Present</note>
+      <note
+            displayLabel="Copy Negative">Neg 4x5 1681, Neg 8x10 7</note>
+   </physicalDescription>
+   <subject authority="tgn">
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Virginia</state>
+         <city>Charlottesville</city>
+      </hierarchicalGeographic>
+   </subject>
+   <subject authority="lcsh">
+      <name
+            type="corporate"
+            authority="naf">
+         <namePart>University of Virginia</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh">
+      <topic>University of Virginia Rotunda (Charlottesville, Va.)</topic>
+   </subject>
+   <relatedItem type="series" displayLabel="Part of">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>University of Virginia Visual History Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource authority="marcorg">viu</recordContentSource>
+      <recordOrigin>Created programmatically by Digital Curation Services.</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate encoding="w3cdtf">2012-09-28T15:51:57.661Z</recordCreationDate>
+   </recordInfo>
+</mods>
